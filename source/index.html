@@ -1,8 +1,50 @@
 ---
-layout: page
-title: "index"
+layout: default
+title: Vietnam VAC Homepage
 date: 2014-05-05 15:48
 comments: true
 sharing: true
 footer: true
 ---
+  <div id="carousel" class="carousel slide vv-carousel" data-interval="false" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#carousel" data-slide-to="0" class="active"></li>
+      <li data-target="#carousel" data-slide-to="1"></li>
+      <li data-target="#carousel" data-slide-to="2"></li>
+      <li data-target="#carousel" data-slide-to="3"></li>
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner">
+      <div class="item active">
+        <a href="http://google.com">
+        <img src="http://vietnamvac.org//wp-content/uploads/2012/03/hai-van.jpg">
+        <div class="carousel-caption">Our visit to Vietnam, March 2014</div>
+        </a>
+
+      </div>
+      <div class="item">
+        <img src="http://vietnamvac.org//wp-content/uploads/2012/03/houston-banner.jpg">
+        <div class="carousel-caption">From our Houston Gala, 2011</div>
+      </div>
+      <div class="item">
+        <img src="http://vietnamvac.org//wp-content/uploads/2013/12/boston-2013-960x370.jpg">
+        <div class="carousel-caption">Boston gala, December 15, 2013</div>
+      </div>
+      <div class="item">
+        <img src="http://vietnamvac.org//wp-content/uploads/2012/03/children-banner.jpg">
+        <div class="carousel-caption">Some of the children of the VAC</div>
+      </div>
+    </div>
+
+    <!-- Controls -->
+    <a class="left carousel-control" href="#carousel" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left"></span>
+    </a>
+    <a class="right carousel-control" href="#carousel" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right"></span>
+    </a>
+  </div>
+
+{% include home-content.html %}

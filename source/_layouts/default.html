@@ -1,14 +1,29 @@
 {% capture root_url %}{{ site.root | strip_slash }}{% endcapture %}
 {% include head.html %}
 <body {% if page.body_id %} id="{{ page.body_id }}" {% endif %} {% if page.sidebar == false %} class="no-sidebar" {% endif %} {% if page.sidebar == 'collapse' or site.sidebar == 'collapse' %} class="collapse-sidebar sidebar-footer" {% endif %}>
-  <header role="banner">{% include header.html %}</header>
-  <nav role="navigation">{% include navigation.html %}</nav>
-  <div id="main">
-    <div id="content">
-      {{ content | expand_urls: root_url }}
+  <header class="navbar navbar-inverse navbar-static-top" id="top" role="banner">
+    <div class="container">
+      <div class="navbar-header">
+        <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+      </div>
+      <nav class="collapse navbar-collapse navbar-collapse" role="navigation">{% include navigation.html %}</nav>
     </div>
+  </header>
+
+  <header class="vv-header" role="banner">
+    <div class="container">{% include header.html %}</div>
+  </header>
+  <div class="container">
+    {{ content | expand_urls: root_url }}
   </div>
-  <footer role="contentinfo">{% include footer.html %}</footer>
+  <footer role="contentinfo" class="vv-footer">
+    <div class="container">{% include footer.html %}</div>
+  </footer>
   {% include after_footer.html %}
 </body>
 </html>

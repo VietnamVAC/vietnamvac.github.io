@@ -1,3 +1,52 @@
+$carousel-image-width: 960px;
+$carousel-image-scale: $container-md / $carousel-image-width;
+
+.navbar + .vv-header {
+  margin-top: -20px;
+}
+.vv-carousel {
+  margin: 50px auto;
+  img {
+    /* @extend .container; padding: 0; */
+    @media (min-width: $screen-sm-min) {
+      width: $container-sm;
+    }
+    @media (min-width: $screen-md-min) {
+      width: $container-md;
+    }
+    @media (min-width: $screen-lg-min) {
+      width: $container-lg;
+    }
+  }
+}
+
+.vv-footer {
+  background: #f9f9f9;
+  border-top: 1px solid #f2f2f0;
+  border-bottom: 1px solid #f2f2f0;
+  padding: 12px 0px;
+}
+
+.vv-header {
+  @include gradient-vertical(#563d7c,#6f5499);
+  background-color: #6f5499;
+  color: #cdbfe3;
+  position: relative;
+  text-align: left;
+  text-shadow: 0 1px 0 rgba(0,0,0,.1);
+  hgroup {
+    margin-left: 15px;
+  }  
+}
+
+.bio {
+  img {
+    float: left;
+    margin: 0 10px 10px 0;
+  }
+}
+
+/*
 $max-width: 1200px !default;
 
 // Padding used for layout margins
@@ -189,4 +238,4 @@ body.sidebar-footer {
     ul, ol { margin-left: 0; }
   }
 }
-
+*/

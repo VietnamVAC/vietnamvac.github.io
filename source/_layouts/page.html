@@ -2,11 +2,11 @@
 layout: default
 ---
 
-<div>
+<div class="col-md-9">
 <article role="article">
   {% if page.title %}
   <header>
-    <h1 class="entry-title">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>
+    <h1 class="page-header">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>
     {% if page.date %}<p class="meta">{% include post/date.html %}{{ time }}</p>{% endif %}
   </header>
   {% endif %}
@@ -32,6 +32,7 @@ layout: default
 {% endif %}
 </div>
 {% unless page.sidebar == false %}
+<div class="col-md-3">
 <aside class="sidebar">
   {% if site.page_asides.size %}
     {% include_array page_asides %}
@@ -39,4 +40,5 @@ layout: default
     {% include_array default_asides %}
   {% endif %}
 </aside>
+</div>
 {% endunless %}
