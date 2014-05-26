@@ -6,7 +6,6 @@ tags: []
 status: publish
 type: page
 published: true
-author: admin
 ---
 ### Does your baby have infantile hemangioma?
 <a href="http://www2.massgeneral.org/wellman/research-clinicalstudies.htm" target="_blank">An MGH sponsored study on Hemangioma</a>

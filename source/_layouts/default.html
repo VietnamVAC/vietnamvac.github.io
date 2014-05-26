@@ -22,7 +22,9 @@
     {{ content | expand_urls: root_url }}
   </div>
   <footer role="contentinfo" class="vv-footer">
-    <div class="container">{% include footer.html %}</div>
+    <div class="container">
+      {% include footer.html %}
+    </div>
   </footer>
   {% include after_footer.html %}
 </body>

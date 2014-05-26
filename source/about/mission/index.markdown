@@ -6,7 +6,6 @@ tags: []
 status: publish
 type: page
 published: true
-author: tnt
 ---
 The mission of the Vietnam Vascular Anomalies Center (VAC) is to care for underserved children and to promote mutual learning, education, and research between Vietnamese and US physicians and other healthcare providers in the diagnosis and treatment of vascular anomalies.
 
