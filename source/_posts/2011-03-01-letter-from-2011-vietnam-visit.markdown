@@ -1,0 +1,22 @@
+---
+layout: post
+title: Letter from 2011 Vietnam visit
+categories:
+- From Vietnam
+- News
+tags: []
+status: publish
+type: post
+published: true
+---
+Dear Friends and Colleagues,
+
+We would like to share with you a few images from our recent trip to Vietnam for the second anniversary of the Vietnam Vascular Anomalies Clinic.   With the generous support of laser devices from Candela/Syneron and Lumenis Corporations, we were able to offer treatment to many children with vascular/pigmented birthmarks as well as disfiguring scars.  In addition, we were also able to help train our colleagues in Vietnam in the latest technologies with the hope of providing good care for the children of Vietnam.  Thousands of children remain untreated in underdeveloped nations around the world where access to care as well as correct treatment is often out-of-reach.  The most striking example as been the continued use of radioactive phosphorus 32 in Saigon to treat hemangiomas in children, an outdated procedure that causes severe scarring and depigmentation, not including the risk of malignancy.  We are working hard with our colleagues in Vietnam to try to change this practice.  Our work in Saigon has touched over 500 children thus far – and with your help, we are expanding the reach of our program.
+
+We again would like to extend our heartfelt gratitude for supporting our effort in Vietnam. You are all essential members of our team who have volunteered time, resources, and effort towards this worthwhile cause. Without your support, we would not be able to maintain and expand our clinic.  Thank you again for your generosity.
+
+Here are a few images from our trip. We all had a wonderful time and formed new friendships while working hard in the operating room.  We will also continue to update our website with the latest information about the clinic, including photos, blog, treatment results, future fund raising efforts, etc.
+
+Sincerely,
+
+Thanh-Nga Tran

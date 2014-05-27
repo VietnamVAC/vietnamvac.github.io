@@ -8,4 +8,4 @@ status: publish
 type: post
 published: true
 ---
-<p><a href='http://vietnamvac.isamonkey.org/documents/report-2014.pdf'>View our 2014 Newsletter(PDF)</a></p>
+View our [2014 Newsletter](http://vietnamvac.isamonkey.org/documents/report-2014.pdf) (PDF)
