@@ -2,7 +2,6 @@
 layout: post
 title: Thanh-Nga receives Community Service Award
 categories:
-- News
 - Press
 tags: []
 status: publish

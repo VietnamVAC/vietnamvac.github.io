@@ -2,7 +2,6 @@
 layout: post
 title: Press coverage on Dr. Phung's work with the Vienam VAC
 categories:
-- News
 - Press
 tags: []
 status: publish

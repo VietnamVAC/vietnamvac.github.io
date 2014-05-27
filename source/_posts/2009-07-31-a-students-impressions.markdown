@@ -2,7 +2,7 @@
 layout: post
 title: A student's impressions
 categories:
-- News
+- Press
 tags: []
 status: publish
 type: post

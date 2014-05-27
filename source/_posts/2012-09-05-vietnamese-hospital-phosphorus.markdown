@@ -3,7 +3,6 @@ layout: post
 title: Vietnamese hospital ceases phosphorus treatment
 categories:
 - From Vietnam
-- News
 tags:
 - phosphorus 32p
 status: publish

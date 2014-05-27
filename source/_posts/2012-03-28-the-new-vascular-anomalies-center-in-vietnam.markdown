@@ -3,7 +3,6 @@ layout: post
 title: The new Vascular Anomalies Center in Vietnam
 categories:
 - From Vietnam
-- News
 tags: []
 status: publish
 type: post

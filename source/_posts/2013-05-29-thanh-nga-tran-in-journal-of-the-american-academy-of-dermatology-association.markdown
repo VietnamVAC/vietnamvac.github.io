@@ -2,7 +2,6 @@
 layout: post
 title: Thanh-Nga in journal of the American Academy of Dermatology Association
 categories:
-- News
 - Press
 tags: []
 status: publish

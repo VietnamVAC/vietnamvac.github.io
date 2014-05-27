@@ -2,7 +2,6 @@
 layout: post
 title: Press coverage for 2010 gala
 categories:
-- News
 - Press
 tags: []
 status: publish

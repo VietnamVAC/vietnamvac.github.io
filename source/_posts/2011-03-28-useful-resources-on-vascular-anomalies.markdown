@@ -2,7 +2,7 @@
 layout: post
 title: Useful resources on vascular anomalies
 categories:
-- News
+- Press
 tags: []
 status: publish
 type: post

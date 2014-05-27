@@ -2,7 +2,7 @@
 layout: post
 title: Interview with Vietnam VAC founder Dr. Martin Mihm
 categories:
-- News
+- Press
 tags: []
 status: publish
 type: post

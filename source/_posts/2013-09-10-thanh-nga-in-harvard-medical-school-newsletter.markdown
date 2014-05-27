@@ -2,7 +2,6 @@
 layout: post
 title: Thanh-Nga in Harvard Medical School newsletter
 categories:
-- News
 - Press
 tags: []
 status: publish

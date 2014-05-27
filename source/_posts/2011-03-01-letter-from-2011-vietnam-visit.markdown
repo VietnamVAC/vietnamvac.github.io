@@ -3,7 +3,6 @@ layout: post
 title: Letter from 2011 Vietnam visit
 categories:
 - From Vietnam
-- News
 tags: []
 status: publish
 type: post
