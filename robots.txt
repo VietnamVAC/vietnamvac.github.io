@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://vietnamvac.github.io/sitemap.xml 
+Sitemap: http://vietnamvac.org/sitemap.xml 
