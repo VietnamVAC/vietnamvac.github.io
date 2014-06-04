@@ -1,11 +1,21 @@
-$carousel-image-width: 960px;
-$carousel-image-scale: $container-md / $carousel-image-width;
-
-.navbar + .vv-header {
-  margin-top: -20px;
+body, html {
+  color: $gray-dark;
+  background: image-url('bk_body.jpg');
+  font-size: 13px;
+  font-weight: normal;
+  line-height: 1.5;
 }
-.vv-carousel {
-  margin: 50px auto;
+
+.bio {
+  img {
+    float: left;
+    margin: 0 10px 10px 0;
+  }
+}
+
+#carousel {
+  @include box-shadow(0 50px 50px -40px black);
+  margin: 0 auto 50px auto;
   img {
     /* @extend .container; padding: 0; */
     @media (min-width: $screen-sm-min) {
@@ -20,222 +30,235 @@ $carousel-image-scale: $container-md / $carousel-image-width;
   }
 }
 
-.vv-footer {
-  background: #f9f9f9;
-  border-top: 1px solid #f2f2f0;
-  border-bottom: 1px solid #f2f2f0;
-  padding: 12px 0px;
+#wrapper {
+  @media (min-width: $screen-sm-min) {
+    background: image-url('bk_main_wrapper.png') 0 0 repeat-x;
+    body#home & {
+      background: image-url('bk_main_wrapper_home.png') 0 0 repeat-x;
+    }
+    .navbar-inverse {
+      background-color: transparent;
+    }
+    .nav.navbar-nav {
+      .dropdown-toggle .caret {
+        display: none;  /* hide dropdown caret */
+      }
+    }
+  }
+}
+#header {
+  @media screen and (min-width: $screen-sm-min) {
+    background: image-url('bk_header.png') 0 0 no-repeat;
+    border-bottom: 0;
+    height: 190px;
+    position: relative;
+    ul.nav > li > a {
+      background: image-url('bk_mainmenu.png') 0 -78px no-repeat;
+      display: block;
+      height: 85px;
+      color: #ccc;
+      font-size: 17px;
+      padding: 36px 18px 0;
+    }
+    ul.nav > li > a span {
+      font-size:10px;
+      color: #999;
+      line-height: 120%;
+    }
+    ul.nav > li > a:hover {
+      text-decoration: none;
+      background: image-url('bk_mainmenu.png') 0 0 repeat-x;
+      color: #96DDFC;
+    }
+  }
+}
+#menu {
+  ul.dropdown-menu {
+    margin-top: -1px;
+    padding: 0;
+    > li {
+      background: #091011;
+      padding: 0;
+    }
+    > li > a {
+      border-bottom: 1px solid #333;
+      color: #ccc;
+      font-size: 13px;
+      line-height: 100%;
+      margin: 0;
+      padding: 12px 0 12px 16px;
+      text-transform: none;
+      height: 1%;
+      width: 168px;
+      &:hover {
+        background: #132325;
+        color: #1fa2e1;
+      }
+    }
+  }
 }
 
-.vv-header {
-  @include gradient-vertical(#563d7c,#6f5499);
-  background-color: #6f5499;
-  color: #cdbfe3;
-  position: relative;
-  text-align: left;
-  text-shadow: 0 1px 0 rgba(0,0,0,.1);
-  hgroup {
-    margin-left: 15px;
-  }  
+$search-width: 130px;
+$search-width-focus: 175px;
+$search-text: #a8a8a8;
+$search-border: #2E4849;
+
+#search {
+  input[type="submit"] {
+    display: none;
+  }
+  @media (min-width: $screen-sm-min) {
+    margin: 30px 0 0 0;
+    position: relative;
+    input[type="text"] {
+      @include border-radius($border-radius-base);
+      @include transition(width 0.5s ease);
+      background: image-url('bk_top_search.png') 0 0 repeat-x;
+      border: 1px solid $search-border;
+      color: $search-text;
+      font-style: italic;
+      padding: 10px;
+      width: $search-width;
+      &:active,
+      &:focus {
+        width: $search-width-focus;
+      }
+    }
+    input[type="submit"] {
+      background: image-url('but_search.png') 0 0 no-repeat;
+      border: none;
+      display: block;
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 44px;
+      width: 43px;
+      z-index:100;
+    }
+  }
 }
 
-.bio {
-  img {
+#alt-logo {
+  // Should have class .navbar-toggle to show when resolution is below $grid-float-breakpoint
+  @extend h1;
+  float: left;
+  margin: 10px 0 0 30px;
+}
+#logo-header {
+  display: none;
+  padding: 0 15px;
+  @media (min-width: $grid-float-breakpoint) {
+    display: block;
+  }
+}
+#logo {
+  margin-top: 15px;
+}
+#subtitle {
+  clear: both;
+  color: #666666;
+  font-size: 11px;
+  margin-top: 0;
+  text-transform: uppercase;
+}
+#top-social {
+  margin-top: 40px;
+  ul > li {
     float: left;
-    margin: 0 10px 10px 0;
+    margin-left: 10px;
+    padding: 0 5px;
+    width: 50px;
+  }
+  ul > li > a {
+    display: block;
+    height: 47px;
+    width: 47px;
+    background: image-url('bk_topsocial.png') 0 0 no-repeat;
+    &:hover {
+      background: none;
+    }
+  }
+  ul > li > a > img {
+    border: none;
+    margin-top: 9px;
+    margin-left: 8px;
   }
 }
-
-/*
-$max-width: 1200px !default;
-
-// Padding used for layout margins
-$pad-min: 18px !default;
-$pad-narrow: 25px !default;
-$pad-medium: 35px !default;
-$pad-wide: 55px !default;
-
-// Sidebar widths used in media queries
-$sidebar-width-medium: 240px !default;
-$sidebar-pad-medium: 15px !default;
-$sidebar-pad-wide: 20px !default;
-$sidebar-width-wide: 300px !default;
-
-$indented-lists: false !default;
-
-$header-font-size: 1em !default;
-$header-padding-top: 1.5em !default;
-$header-padding-bottom: 1.5em !default;
-
-.group { @include pie-clearfix; }
-
-@mixin collapse-sidebar {
-  float: none;
-  width: auto;
-  clear: left;
-  margin: 0;
-  padding: 0 $pad-medium 1px;
-  background-color: lighten($sidebar-bg, 2);
-  border-top: 1px solid lighten($sidebar-border, 4);
-  section {
-    &.odd, &.even { float: left; width: 48%; }
-    &.odd { margin-left: 0; }
-    &.even { margin-left: 4%; }
-  }
-  &.thirds section {
-    width: 30%;
-    margin-left: 5%;
-    &.first {
-      margin-left: 0;
-      clear: both;
-    }
-  }
-}
-
-body {
-  -webkit-text-size-adjust: none;
-  max-width: $max-width;
-  position: relative;
-  margin: 0 auto;
-  > header, > nav, > footer, #content > article, #content > div > article, #content > div > section {
-    @extend .group;
-    padding-left: $pad-min;
-    padding-right: $pad-min;
-    @media only screen and (min-width: 480px) {
-      padding-left: $pad-narrow;
-      padding-right: $pad-narrow;
-    }
-    @media only screen and (min-width: 768px) {
-      padding-left: $pad-medium;
-      padding-right: $pad-medium;
-    }
-    @media only screen and (min-width: 992px) {
-      padding-left: $pad-wide;
-      padding-right: $pad-wide;
-    }
-  }
-  div.pagination {
-    @extend .group;
-    margin-left: $pad-min;
-    margin-right: $pad-min;
-    @media only screen and (min-width: 480px) {
-      margin-left: $pad-narrow;
-      margin-right: $pad-narrow;
-    }
-    @media only screen and (min-width: 768px) {
-      margin-left: $pad-medium;
-      margin-right: $pad-medium;
-    }
-    @media only screen and (min-width: 992px) {
-      margin-left: $pad-wide;
-      margin-right: $pad-wide;
-    }
-  }
-  > header {
-    font-size: $header-font-size;
-    padding-top: $header-padding-top;
-    padding-bottom: $header-padding-bottom;
+#home-boxes .home-box {
+  img {
+    border: 6px solid #e2e2e2;
+    background: white;
+    padding: 1px;
   }
 }
 
 #content {
-  overflow: hidden;
-  > div, > article { width: 100%; }
+  background: image-url('bk_vertline.jpg') 100% 0 repeat-y;
+  padding-right: 25px;
 }
 
-aside.sidebar {
-  float: none;
-  padding: 0 $pad-min 1px;
-  background-color: lighten($sidebar-bg, 2);
-  border-top: 1px solid $sidebar-border;
-  @extend .group;
+#sidebar {
+  padding-left: 25px;
 }
 
-.flex-content { max-width: 100%; height: auto; }
+$footer-bg: black;
+$footer-color: #666;
+$footer-border-color: #292929;
 
-.basic-alignment {
-  &.left { float: left; margin-right: 1.5em; }
-  &.right { float: right; margin-left: 1.5em; }
-  &.center { display:block; margin: 0 auto 1.5em; }
-  &.left, &.right { margin-bottom: .8em; }
-}
-
-.toggle-sidebar { &, .no-sidebar & { display: none; }}
-
-body.sidebar-footer {
-  @media only screen and (min-width: 750px) {
-    aside.sidebar{ @include collapse-sidebar; }
+#footer {
+  background: black image-url('bk_footer_widgets.png') 0 0 repeat-x;
+  color: #666;
+  font-size: 12px;
+  padding-top: 32px;
+  #inner-footer {
+    padding: 20px 0 35px;
+    overflow: hidden;
   }
-  #content { margin-right: 0px; }
-  .toggle-sidebar { display: none; }
-}
-
-@media only screen and (min-width: 550px) {
-  body > header { font-size: $header-font-size; }
-}
-@media only screen and (min-width: 750px) {
-  aside.sidebar { @include collapse-sidebar; }
-}
-#main, #content, .sidebar {
-  @extend .group;
-}
-@media only screen and (min-width: 768px) {
-  body { -webkit-text-size-adjust: auto; }
-  body > header { font-size: $header-font-size * 1.2; }
-  #main {
-    padding: 0;
-    margin: 0 auto;
+  #copyright {
+    @include clearfix();
+    border-top: 4px solid #090e0f;
+    margin-left: 15px;
+    margin-right: 15px;
+    padding-top: 25px;
   }
-  #content {
-    overflow: visible;
-    margin-right: $sidebar-width-medium;
-    position: relative;
-    .no-sidebar & { margin-right: 0; border-right: 0; }
-    .collapse-sidebar & { margin-right: 20px; }
-    > div, > article {
-      padding-top: $pad-medium/2;
-      padding-bottom: $pad-medium/2;
-      float: left;
-    }
+  .row {
+    margin-left: 0;
+    margin-right: 0;
   }
-  aside.sidebar {
-    width: $sidebar-width-medium - $sidebar-pad-medium*2;
-    padding: 0 $sidebar-pad-medium $sidebar-pad-medium;
-    background: none;
-    clear: none;
-    float: left;
-    margin: 0 -100% 0 0;
-    section {
-      width: auto; margin-left: 0;
-      &.odd, &.even { float: none; width: auto; margin-left: 0; }
-    }
-    .collapse-sidebar & {
-      @include collapse-sidebar;
+  h2 {
+    border-bottom: 1px solid $footer-border-color;
+    color: #ccc;
+    font-size: 20px;
+    margin-bottom: 10px;
+    padding: 7px 0 12px;
+  }
+  .footer-box {
+    margin-bottom: 40px;
+  }
+  .footer-box ul li {
+    padding: 7px 0;
+    border-bottom: 1px solid $footer-border-color;
+    color: #986123;
+    font-size: 10px;
+    font-style: italic;
+  }
+  .footer-box ul li a {
+    text-decoration: none;
+    color: #515151;
+    font-size:13px;
+    font-style:normal;
+    &:hover {
+      color: #ccc;
     }
   }
 }
 
-@media only screen and (min-width: 992px) {
-  body > header { font-size: $header-font-size * 1.3; }
-  #content { margin-right: $sidebar-width-wide; }
-  #content {
-    > div, > article {
-      padding-top: $pad-wide/2;
-      padding-bottom: $pad-wide/2;
-    }
-  }
-  aside.sidebar {
-    width: $sidebar-width-wide - $sidebar-pad-wide*2;
-    padding: 1.2em $sidebar-pad-wide $sidebar-pad-wide;
-    .collapse-sidebar & {
-      padding: { left: $pad-wide; right: $pad-wide; }
-    }
-  }
-}
 
-@if $indented-lists == false {
-  @media only screen and (min-width: 768px) {
-    ul, ol { margin-left: 0; }
-  }
-}
-*/
+
+
+
+
+
+
+
+

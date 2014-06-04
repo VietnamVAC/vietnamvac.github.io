@@ -1,6 +1,41 @@
-<div class="col-md-6">
-  Copyright &copy; {{ site.time | date: "%Y" }} - {{ site.author }}
+<div class="row">
+  <div class="col-md-3 footer-box">
+    <h2>About us</h2>
+    <p>
+      We care for underserved children and promote mutual learning, education, and research between Vietnamese and US physicians and other healthcare providers in the diagnosis and treatment of vascular anomalies.
+    </p>
+  </div>
+  <div class="col-md-3 footer-box">
+    <h2>Menu</h2>
+    <ul>
+      <li><a href="{{ root_url }}/blog/categories/from-vietnam">News from Vietnam</a></li>
+      <li><a href="{{ root_url }}/blog/categories/newsletter">Newsletter</a></li>
+      <li><a href="{{ root_url }}/blog/categories/press">Press</a></li>
+      <li><a href="{{ root_url }}/events/gallery">Gallery</a></li>
+      <li><a href="{{ root_url }}/donate">Donate</a></li>
+      <li><a href="{{ root_url }}/contact">Contact</a></li>
+    </ul>
+  </div>
+  <div class="col-md-3 footer-box">
+    <h2>Latest galleries</h2>
+    <ul>
+      <li><a href="{{ root_url}}/events/gallery/vietnam-2014">2014 Vietnam Visit</a></li>
+      <li><a href="{{ root_url}}/events/gallery/boston-2013">2013 Boston Gala</a></li>
+    </ul>
+  </div>
+  <div class="col-md-3 footer-box">
+    <h2>Links</h2>
+    <ul>
+      <li><a href="http://www.facebook.com/groups/149650161734418/">Facebook</a></li>
+    </ul>
+  </div>
 </div>
-<div class="pull-right">
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+<div id="copyright">
+  <div class="pull-left">
+    Copyright &copy; {{ site.time | date: "%Y" }} - {{ site.author }}
+  </div>
+  <div class="pull-right">
+    <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>.
+    Theme based on Boldy by <a href="http://www.s5themes.com">Site5</a>.
+  </div>
 </div>
