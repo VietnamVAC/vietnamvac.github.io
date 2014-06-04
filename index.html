@@ -36,18 +36,21 @@
 
 </head>
 
-<body   >
-  <header class="navbar navbar-inverse navbar-static-top" id="top" role="banner">
-    <div class="container">
-      <div class="navbar-header">
-        <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".navbar-collapse">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-      </div>
-      <nav class="collapse navbar-collapse navbar-collapse" role="navigation"><!-- <ul class="subscription" data-subscription="rss">
+<body  id="home"   >
+  <div id="wrapper">
+    <header id="header" class="navbar navbar-inverse navbar-static-top" id="top" role="banner">
+      <div class="container">
+        <div class="navbar-header">
+          <div id="alt-logo" class="navbar-toggle">Vietnam Vascular Anomalies Center</div>
+          <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+        <nav id="menu" class="collapse navbar-collapse" role="navigation">
+          <!-- <ul class="subscription" data-subscription="rss">
   <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
   
 </ul>
@@ -70,7 +73,7 @@
   </li>
   <li><a href="/donate">Donate</a></li>
   <li class="dropdown">
-    <a href="#" class="dropdown-toggle" data-toggle="dropdown">About Us <b class="caret"></b></a>
+    <a href="#" class="dropdown-toggle" data-toggle="dropdown">About<b class="caret"></b></a>
      <ul class="dropdown-menu">
        <li><a href="/about/mission">Our Mission</a></li>
        <li><a href="/about/history">Our History</a></li>
@@ -78,34 +81,42 @@
        <li><a href="/about/who-we-are">Who we Are</a></li>
      </ul>
   </li>
-  <li><a href="/contact">Contact Us</a></li>
+  <li><a href="/contact">Contact</a></li>
   <!-- <li><a href="/blog/archives">Archives</a></li> -->
 </ul>
 
 
-<form action="https://www.google.com/search" class="navbar-form navbar-right" method="get">
+<form id="search" action="https://www.google.com/search" class="navbar-form navbar-right" method="get">
   <fieldset role="search">
     <input type="hidden" name="q" value="site:vietnamvac.org" />
-    <input class="form-control" type="text" name="q" results="0" placeholder="Search"/>
+    <input class="form-control" type="text" name="q" results="0" placeholder="type your search"/>
+    <input type="submit" value="">
   </fieldset>
 </form>
 
-</nav>
-    </div>
-  </header>
 
-  <header class="vv-header" role="banner">
-    <div class="container"><hgroup>
-  <h1>Vietnam Vascular Anomalies Center</h1>
+        </nav>
+        <div id="logo-header">
+          <div id="logo" class="pull-left">
+  <img src="/images/banner.png" alt="VietnamVAC logo" />
   
-    <!-- <h2>A non-profit organization</h2> -->
+    <div id="subtitle">A non-profit organization</div>
   
-</hgroup>
 </div>
-  </header>
-  <div class="container">
-    <div class="col-md-12">
-  <div id="carousel" class="carousel slide vv-carousel" data-interval="3500" data-ride="carousel">
+<div id="top-social" class="pull-right">
+  <ul>
+    <li><a href="http://www.facebook.com/groups/149650161734418/" class="twitter" title="Join Us on Facebook!"><img src="/images/ico_facebook.png" alt="Join Us on Facebook!"></a></li>
+    <li><a href="http://vietnamvac.org/feed/" title="RSS" class="rss"><img src="/images/ico_rss.png" alt="Subcribe to Our RSS Feed"></a></li>
+  </ul>
+</div>
+
+        </div>
+      </div>
+    </header>
+
+    <div class="container">
+      <div class="col-md-12">
+  <div id="carousel" class="carousel slide" data-interval="3500" data-ride="carousel">
     <!-- Indicators -->
     <ol class="carousel-indicators">
       <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -151,59 +162,98 @@
     </a>
   </div>
 </div>
-<div class="col-md-4">
-  <h2>Vietnam trip, 2014</h2>
-  <p><img src="http://vietnamvac.isamonkey.org/gallery/main/vietnam-2014-300x132.jpg" alt="" width="300" height="132" /></p>
-  <p>We have just returned from Vietnam again on a most exciting trip.  We all had a wonderful time and formed new friendships while working hard in the operating room.  We also have happy news to share with you all.  Please follow the link to read more.</p>
-  <p><a href="/events/gallery/vietnam-2014"><strong>Read more</strong></a></p>
+<div id="home-boxes">
+  <div class="col-md-4 home-box">
+    <h2>Vietnam trip, 2014</h2>
+    <p><img src="http://vietnamvac.isamonkey.org/gallery/main/vietnam-2014-300x132.jpg" alt="" width="300" height="132" /></p>
+    <p>We have just returned from Vietnam again on a most exciting trip.  We all had a wonderful time and formed new friendships while working hard in the operating room.  We also have happy news to share with you all.  Please follow the link to read more.</p>
+    <p><a href="/events/gallery/vietnam-2014"><strong>Read more »</strong></a></p>
+  </div>
+
+  <div class="col-md-4 home-box">
+    <h2>2013 Boston Benefit Concert</h2>
+    <p><img src="http://vietnamvac.isamonkey.org/gallery/main/boston-2013-300x132.jpg" alt="" width="300" height="132" /></p>
+    <p>Our 2013 Benefit Concert was held on Sunday, December 15, in Boston&#8217;s beautiful Back Bay. We are grateful to everyone for your help and support. Please follow the link to see the photos from the event.</p>
+  <!--  Our 2013 Benefit Concert will be held on Sunday, December 15, at the Goethe-Institut, with 100% of the proceeds to benefit our work with children.  We hope to see you there!--><!--Please save the date for the 3rd annual Vietnam VAC benefit concert on Saturday, December 1 at the Goethe Institut Boston. We promise another exciting evening with 100% of the proceeds to benefit the children.  We've uploaded the photos from our 2012 benefit concert at the Goethe Institut in Boston.  Please follow the link to view.
+
+  From all of us at the Boston office, a warm and heart-felt thank you for all your support!  With your help, we've raised much-needed funds to continue our work in Vietnam. Please follow the link below to view the images from our galas in 2011.
+
+  Not only are vascular anomalies the cause of great suffering for our patients, they are also the source of great strain for their loved ones.  By treating these conditions, we hope to restore some measure of normalcy to their lives.
+  -->
+    <p><a href="/events/gallery/boston-2013"><strong>Read more »</strong></a></p>
+  </div>
+
+  <div class="col-md-4 home-box">
+  <h2>International Fundraiser</h2>
+  <p>Thanh Nga is giving a talk at the Massachusetts Medical Society International Dinner (also a fundraiser for our clinic) about the activities of Vietnam VAC. We would love your presence and support.</p>
+  <p>Saturday, March 29, 2014, 4-6 pm<br />
+  Aegean Restaurant, 257 Cochituate Road, Framingham, MA<br />
+  Cost: $30/adults or $10/children<br />
+  Contact Jill Cricones, (781) 434-7372,  jcricones at mms.org</p>
+  </div>
+</div>
+    </div>
+    <footer id="footer" role="contentinfo">
+      <div class="container">
+        <div id="inner-footer">
+          <div class="row">
+  <div class="col-md-3 footer-box">
+    <h2>About us</h2>
+    <p>
+      We care for underserved children and promote mutual learning, education, and research between Vietnamese and US physicians and other healthcare providers in the diagnosis and treatment of vascular anomalies.
+    </p>
+  </div>
+  <div class="col-md-3 footer-box">
+    <h2>Menu</h2>
+    <ul>
+      <li><a href="/blog/categories/from-vietnam">News from Vietnam</a></li>
+      <li><a href="/blog/categories/newsletter">Newsletter</a></li>
+      <li><a href="/blog/categories/press">Press</a></li>
+      <li><a href="/events/gallery">Gallery</a></li>
+      <li><a href="/donate">Donate</a></li>
+      <li><a href="/contact">Contact</a></li>
+    </ul>
+  </div>
+  <div class="col-md-3 footer-box">
+    <h2>Latest galleries</h2>
+    <ul>
+      <li><a href="/events/gallery/vietnam-2014">2014 Vietnam Visit</a></li>
+      <li><a href="/events/gallery/boston-2013">2013 Boston Gala</a></li>
+    </ul>
+  </div>
+  <div class="col-md-3 footer-box">
+    <h2>Links</h2>
+    <ul>
+      <li><a href="http://www.facebook.com/groups/149650161734418/">Facebook</a></li>
+    </ul>
+  </div>
+</div>
+<div id="copyright">
+  <div class="pull-left">
+    Copyright &copy; 2014 - VietnamVAC
+  </div>
+  <div class="pull-right">
+    <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>.
+    Theme based on Boldy by <a href="http://www.s5themes.com">Site5</a>.
+  </div>
 </div>
 
-<div class="col-md-4">
-  <h2>2013 Boston Benefit Concert</h2>
-  <p><img src="http://vietnamvac.isamonkey.org/gallery/main/boston-2013-300x132.jpg" alt="" width="300" height="132" /></p>
-  <p>Our 2013 Benefit Concert was held on Sunday, December 15, in Boston&#8217;s beautiful Back Bay. We are grateful to everyone for your help and support. Please follow the link to see the photos from the event.<br />
-<!--  Our 2013 Benefit Concert will be held on Sunday, December 15, at the Goethe-Institut, with 100% of the proceeds to benefit our work with children.  We hope to see you there!--><!--Please save the date for the 3rd annual Vietnam VAC benefit concert on Saturday, December 1 at the Goethe Institut Boston. We promise another exciting evening with 100% of the proceeds to benefit the children.  We've uploaded the photos from our 2012 benefit concert at the Goethe Institut in Boston.  Please follow the link to view.
 
-From all of us at the Boston office, a warm and heart-felt thank you for all your support!  With your help, we've raised much-needed funds to continue our work in Vietnam. Please follow the link below to view the images from our galas in 2011.
+        </div>
+      </div>
+    </footer>
+    
 
-Not only are vascular anomalies the cause of great suffering for our patients, they are also the source of great strain for their loved ones.  By treating these conditions, we hope to restore some measure of normalcy to their lives.
--->
-  <p><a href="/events/gallery/boston-2013"><strong>Read more</strong></a></p>
-</div>
 
-<div class="col-md-4">
-<h2>International Fundraiser</h2>
-<p>Thanh Nga is giving a talk at the Massachusetts Medical Society International Dinner (also a fundraiser for our clinic) about the activities of Vietnam VAC. We would love your presence and support.</p>
-<p>Saturday, March 29, 2014, 4-6 pm<br />
-Aegean Restaurant, 257 Cochituate Road, Framingham, MA<br />
-Cost: $30/adults or $10/children<br />
-Contact Jill Cricones, (781) 434-7372,  jcricones at mms.org</p>
-</div>
+
+
+
+
+
+
+
+
 
   </div>
-  <footer role="contentinfo" class="vv-footer">
-    <div class="container">
-      <div class="col-md-6">
-  Copyright &copy; 2014 - VietnamVAC
-</div>
-<div class="pull-right">
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
-</div>
-
-
-    </div>
-  </footer>
-  
-
-
-
-
-
-
-
-
-
-
-
 </body>
 </html>
