@@ -104,74 +104,10 @@
 	"buffers":
 	[
 		{
-			"file": "sass/base/_layout.scss",
-			"settings":
-			{
-				"buffer_size": 8170,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "source/_layouts/default.html",
 			"settings":
 			{
-				"buffer_size": 1288,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "vietnamvac.sublime-project",
-			"settings":
-			{
-				"buffer_size": 174,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "source/_includes/custom/header.html",
-			"settings":
-			{
-				"buffer_size": 151,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "source/_includes/navigation.html",
-			"settings":
-			{
-				"buffer_size": 804,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "sass/base/bootstrap/_variables.scss",
-			"settings":
-			{
-				"buffer_size": 29898,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "sass/base/bootstrap/mixins/_vendor-prefixes.scss",
-			"settings":
-			{
-				"buffer_size": 6848,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "sass/base/bootstrap/_component-animations.scss",
-			"settings":
-			{
-				"buffer_size": 725,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "sass/base/bootstrap/_forms.scss",
-			"settings":
-			{
-				"buffer_size": 12625,
+				"buffer_size": 1494,
 				"line_ending": "Unix"
 			}
 		},
@@ -180,6 +116,14 @@
 			"settings":
 			{
 				"buffer_size": 17955,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/about/who-we-are/index.markdown",
+			"settings":
+			{
+				"buffer_size": 7934,
 				"line_ending": "Unix"
 			}
 		},
@@ -272,37 +216,62 @@
 	},
 	"file_history":
 	[
-		"/Users/yen/Sites/vietnamvac/vietnamvac.sublime-project",
-		"/Users/yen/Sites/vietnamvac/source/_includes/custom/head.html",
-		"/Users/yen/Sites/vietnamvac/source/_includes/custom/footer.html",
-		"/Users/yen/Sites/vietnamvac/config.rb",
-		"/Users/yen/Sites/vietnamvac/.themes/classic/source/_includes/custom/header.html",
+		"/Users/yen/Sites/vietnamvac/source/_includes/navigation.html",
 		"/Users/yen/Sites/vietnamvac/source/_includes/header.html",
 		"/Users/yen/Sites/vietnamvac/source/_includes/custom/header.html",
+		"/Users/yen/Sites/vietnamvac/vietnamvac.sublime-project",
+		"/Users/yen/Sites/vietnamvac/sass/base/_layout.scss",
+		"/Users/yen/Sites/vietnamvac/source/index.html",
+		"/Users/yen/Sites/vietnamvac/source/_includes/custom/footer.html",
+		"/Users/yen/Sites/vietnamvac/sass/partials/sidebar/_base.scss",
+		"/Users/yen/Sites/vietnamvac/sass/partials/_sidebar.scss",
 		"/Users/yen/Sites/vietnamvac/source/_includes/head.html",
-		"/Users/yen/Sites/vietnamvac/sass/custom/_colors.scss",
+		"/Users/yen/Sites/vietnamvac/config.rb",
+		"/Users/yen/Sites/vietnamvac/source/_includes/custom/head.html",
+		"/Users/yen/Sites/vietnamvac/source/stylesheets/darkbox.css",
+		"/Users/yen/Sites/vietnamvac/source/_includes/custom/navigation.html",
+		"/Users/yen/Sites/vietnamvac/source/_layouts/page.html",
+		"/Users/yen/Sites/vietnamvac/source/_posts/2013-05-29-deans-community-service-faculty-award.markdown",
+		"/Users/yen/Sites/vietnamvac/sass/_base.scss",
+		"/Users/yen/Sites/vietnamvac/sass/partials/sidebar/_delicious.scss",
+		"/Users/yen/Sites/vietnamvac/sass/partials/sidebar/_googleplus.scss",
+		"/Users/yen/Sites/vietnamvac/sass/partials/sidebar/_pinboard.scss",
+		"/Users/yen/Sites/vietnamvac/source/_includes/asides/pinboard.html",
 		"/Users/yen/Sites/vietnamvac/plugins/sitemap_generator.rb",
+		"/Users/yen/Sites/vietnamvac/sass/base/bootstrap/_variables.scss",
+		"/Users/yen/Sites/vietnamvac/source/_layouts/post.html",
+		"/Users/yen/Sites/vietnamvac/source/_includes/footer.html",
+		"/Users/yen/Sites/vietnamvac/source/_includes/after_footer.html",
+		"/Users/yen/Sites/vietnamvac/source/blog/index.html",
+		"/Users/yen/Sites/vietnamvac/source/_includes/custom/home-content.html",
+		"/Users/yen/Sites/vietnamvac/source/_includes/home-content.html",
+		"/Users/yen/Sites/vietnamvac/_config.yml",
+		"/Users/yen/Sites/vietnamvac/sass/base/bootstrap/_forms.scss",
+		"/Users/yen/Sites/vietnamvac/sass/base/bootstrap/_component-animations.scss",
+		"/Users/yen/Sites/vietnamvac/sass/base/bootstrap/mixins/_vendor-prefixes.scss",
+		"/Users/yen/Sites/vietnamvac/sass/base/bootstrap/_navbar.scss",
+		"/Users/yen/Sites/vietnamvac/source/javascripts/bootstrap.min.js",
+		"/Users/yen/Sites/vietnamvac/sass/base/_typography.scss",
+		"/Users/yen/Sites/vietnamvac/sass/base/_theme.scss",
+		"/Users/yen/Sites/vietnamvac/sass/screen.scss",
+		"/Users/yen/Sites/vietnamvac/source/_posts/2009-07-31-a-students-impressions.markdown",
+		"/Users/yen/Sites/vietnamvac/source/atom.xml",
+		"/Users/yen/Sites/vietnamvac/sass/base/bootstrap/_type.scss",
+		"/Users/yen/Sites/vietnamvac/.themes/classic/source/_includes/custom/header.html",
+		"/Users/yen/Sites/vietnamvac/sass/custom/_colors.scss",
 		"/Users/yen/Sites/vietnamvac/.sass-cache/d87c8a4159a5486d8ef2eb946ce3c866af1a4d2f/_unstyled-link.scssc",
 		"/Users/yen/Sites/vietnamvac/.sass-cache/2fa7d94f976a2a0ca89c808baf222f3a1a94f523/_utilities.scssc",
 		"/Users/yen/Sites/vietnamvac/plugins/haml.rb",
-		"/Users/yen/Sites/vietnamvac/source/_includes/custom/navigation.html",
-		"/Users/yen/Sites/vietnamvac/source/stylesheets/darkbox.css",
-		"/Users/yen/Sites/vietnamvac/source/index.html",
 		"/Users/yen/Sites/vietnamvac/.ruby-gemset",
 		"/Users/yen/Sites/vietnamvac/source/events/boston-gala-tickets.markdown",
-		"/Users/yen/Sites/vietnamvac/source/javascripts/bootstrap.min.js",
 		"/Users/yen/Sites/vietnamvac/Rakefile",
 		"/Users/yen/Sites/vietnamvac/.sass-cache/9c8d62a1915e75b8ee4deb392ddfd8d904070f89/_responsive-embed.scssc",
 		"/Users/yen/Sites/vietnamvac/source/about/research/index.markdown",
 		"/Users/yen/Sites/vietnamvac/.themes/classic/sass/base/_theme.scss",
 		"/Users/yen/Sites/vietnamvac/config.ru",
-		"/Users/yen/Sites/vietnamvac/_config.yml",
 		"/Users/yen/Sites/vietnamvac/.themes/classic/sass/base/_layout.scss",
 		"/Users/yen/Sites/vietnamvac/source/_posts/2014-03-21-march-2014-newsletter.markdown",
 		"/Users/yen/Sites/vietnamvac/source/_posts/2014-05-28-global-pathology.markdown",
-		"/Users/yen/Sites/vietnamvac/sass/_base.scss",
-		"/Users/yen/Sites/vietnamvac/sass/screen.scss",
-		"/Users/yen/Sites/vietnamvac/source/atom.xml",
 		"/Users/yen/Sites/vietnamvac/source/_layouts/category_index.html",
 		"/Users/yen/Sites/vietnamvac/source/_posts/2011-03-28-useful-resources-on-vascular-anomalies.markdown",
 		"/Users/yen/Sites/vietnamvac/.sass-cache/2fa7d94f976a2a0ca89c808baf222f3a1a94f523/_solarized.scssc",
@@ -314,28 +283,20 @@
 		"/Users/yen/Sites/vietnamvac/source/_layouts/default.html",
 		"/Users/yen/Sites/vietnamvac/source/_posts/2011-06-30-laser-treatment-presentation-by-dr-anderson.markdown",
 		"/Users/yen/Sites/vietnamvac/public/index.html",
-		"/Users/yen/Sites/vietnamvac/sass/base/_layout.scss",
 		"/Users/yen/Sites/vietnamvac/source/_includes/archive_post.html",
-		"/Users/yen/Sites/vietnamvac/source/_posts/2013-05-29-deans-community-service-faculty-award.markdown",
 		"/Users/yen/Sites/vietnamvac/sass/base/bootstrap/_responsive-embed.scss",
 		"/Users/yen/Sites/vietnamvac/public/fonts/bootstrap/glyphicons-halflings-regular.svg",
 		"/Users/yen/Sites/vietnamvac/public/stylesheets/screen.css",
 		"/Users/yen/Sites/vietnamvac/plugins/preview_unpublished.rb",
-		"/Users/yen/Sites/vietnamvac/source/_layouts/page.html",
-		"/Users/yen/Sites/vietnamvac/sass/base/bootstrap/_variables.scss",
 		"/Users/yen/Sites/vietnamvac/source/_posts/2009-02-16-interview-with-vietnam-vac-founder-dr-martin-mihm.markdown",
 		"/Users/yen/Sites/vietnamvac/.sass-cache/2fa7d94f976a2a0ca89c808baf222f3a1a94f523/_layout.scssc",
 		"/Users/yen/Sites/vietnamvac/source/_posts/2012-11-11-recognition-for-rox-anderson-from-the-american-academy-of-dermatology.markdown",
 		"/Users/yen/Sites/vietnamvac/_deploy/blog/2012/11/11/recognition-for-rox-anderson-from-the-american-academy-of-dermatology/index.html",
 		"/Users/yen/Sites/vietnamvac/_deploy/robots.txt",
 		"/Users/yen/Sites/vietnamvac/source/_posts/2014-04-30-2014-newsletter.markdown",
-		"/Users/yen/Sites/vietnamvac/source/_includes/navigation.html",
-		"/Users/yen/Sites/vietnamvac/source/_includes/custom/home-content.html",
 		"/Users/yen/Sites/vietnamvac/source/donate/index.markdown",
-		"/Users/yen/Sites/vietnamvac/source/blog/index.html",
 		"/Users/yen/Sites/vietnamvac/source/_posts/2011-03-01-letter-from-2011-vietnam-visit.markdown",
 		"/Users/yen/Sites/vietnamvac/source/_posts/2011-01-14-press-coverage-for-2010-gala.markdown",
-		"/Users/yen/Sites/vietnamvac/source/_posts/2009-07-31-a-students-impressions.markdown",
 		"/Users/yen/Sites/vietnamvac/source/_posts/2009-04-30-press-coverage-on-dr-phung.markdown",
 		"/Users/yen/Sites/vietnamvac/source/_posts/2013-09-10-thanh-nga-in-harvard-medical-school-newsletter.markdown",
 		"/Users/yen/Sites/vietnamvac/source/_posts/2013-05-29-thanh-nga-tran-in-journal-of-the-american-academy-of-dermatology-association.markdown",
@@ -357,25 +318,20 @@
 		"/Users/yen/Sites/vietnamvac/_deploy/donate/index.html",
 		"/Users/yen/Sites/vietnamvac/.sass-cache/d12a34e8322f9e90048b039c4bb4bc50f9f5869b/_nowrap.scssc",
 		"/Users/yen/Sites/vietnamvac/_deploy/javascripts/octopress.js",
-		"/Users/yen/Sites/vietnamvac/source/_layouts/post.html",
 		"/Users/yen/Sites/vietnamvac/source/events/gallery/index.markdown",
 		"/Users/yen/Sites/vietnamvac/source/_pages/2014-03-21-massachusetts-medical-society-international-dinner.html",
 		"/Users/yen/Sites/vietnamvac/source/_pages/2012-09-18-boston-gala-tickets.html",
 		"/Users/yen/Sites/vietnamvac/source/_pages/2012-02-04-fundraisers.html",
 		"/Users/yen/Sites/vietnamvac/source/events/fundraisers.markdown",
 		"/Users/yen/Sites/vietnamvac/source/events/massachusetts-medical-society-international-dinner.markdown",
-		"/Users/yen/Sites/vietnamvac/source/_includes/home-content.html",
 		"/Users/yen/Sites/vietnamvac/source/_pages/2012-03-28-home-slider-images.html",
 		"/Users/yen/Sites/vietnamvac/source/_pages/2012-09-30-buy-ticket.html",
 		"/Users/yen/Sites/vietnamvac/source/_posts/2013-02-22-press-coverage-for-2012-gala.markdown",
-		"/Users/yen/Sites/vietnamvac/source/_includes/after_footer.html",
 		"/Users/yen/Sites/vietnamvac/source/_includes/twitter_sharing.html",
 		"/Users/yen/Sites/vietnamvac/source/_posts/2014-03-10-thuy-phung-at-connect-global-health-conference.markdown",
-		"/Users/yen/Sites/vietnamvac/sass/base/_typography.scss",
 		"/Users/yen/Sites/vietnamvac/_deploy/javascripts/twitter.js",
 		"/Users/yen/Sites/vietnamvac/.sass-cache/f3bb6e57422d07c0a9422ea14a65895a4af79af7/_text-emphasis.scssc",
 		"/Users/yen/Sites/vietnamvac/.sass-cache/f3bb6e57422d07c0a9422ea14a65895a4af79af7/_tab-focus.scssc",
-		"/Users/yen/Sites/vietnamvac/source/_includes/footer.html",
 		"/Users/yen/Sites/vietnamvac/source/_includes/article.html",
 		"/Users/yen/Sites/vietnamvac/.sass-cache/73989e0ef0cd00610f4eb8989f1e8b846e4b5d80/_alternating-rows-and-columns.scssc",
 		"/Users/yen/Sites/vietnamvac/sass/_partials.scss",
@@ -387,19 +343,7 @@
 		"/Users/yen/Sites/vietnamvac/source/about/who-we-are/index.markdown",
 		"/Users/yen/Sites/vietnamvac/.themes/classic/source/_layouts/post.html",
 		"/Users/yen/Sites/vietnamvac/source/_posts/2009-04-30-press-coverage-on-dr-phung.html",
-		"/Users/yen/Sites/vietnamvac/plugins/post_filters.rb",
-		"/Users/yen/Sites/vietnamvac/source/_includes/google_plus_one.html",
-		"/Users/yen/Sites/vietnamvac/source/_posts/2014-04-30-2014-newsletter.html",
-		"/Users/yen/Sites/vietnamvac/source/_posts/2014-03-21-march-2014-newsletter.html",
-		"/Users/yen/Sites/vietnamvac/source/_posts/2014-03-10-thuy-phung-at-connect-global-health-conference.html",
-		"/Users/yen/Sites/vietnamvac/source/_posts/2013-09-10-thanh-nga-in-harvard-medical-school-newsletter.html",
-		"/Users/yen/Sites/vietnamvac/source/_posts/2013-05-29-thanh-nga-tran-in-journal-of-the-american-academy-of-dermatology-association.html",
-		"/Users/yen/Sites/vietnamvac/source/_posts/2013-05-29-deans-community-service-faculty-award.html",
-		"/Users/yen/Sites/vietnamvac/source/_posts/2013-02-22-press-coverage-for-2012-gala.html",
-		"/Users/yen/Sites/vietnamvac/source/_posts/2012-11-11-recognition-for-rox-anderson-from-the-american-academy-of-dermatology.html",
-		"/Users/yen/Sites/vietnamvac/source/_posts/2012-09-05-vietnamese-hospital-phosphorus.html",
-		"/Users/yen/Sites/vietnamvac/source/_posts/2012-03-28-the-new-vascular-anomalies-center-in-vietnam.html",
-		"/Users/yen/Sites/vietnamvac/source/_posts/2012-03-28-letter-from-2012-vietnam-visit.html"
+		"/Users/yen/Sites/vietnamvac/plugins/post_filters.rb"
 	],
 	"find":
 	{
@@ -410,6 +354,10 @@
 		"height": 93.0,
 		"where_history":
 		[
+			"*.scss,*.html",
+			"*.*",
+			"*.html,*.scss",
+			"*.*",
 			"**/bootstrap/*.scss",
 			"*/bootstrap/*.scss",
 			"**/bootstrap/*.scss",
@@ -515,6 +463,48 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			",PhD",
+			"Ph.D.",
+			"M.D.",
+			"sidebar",
+			"main-content",
+			"main-search",
+			"main-footer",
+			"main-menu",
+			"main-header",
+			"main-wrapper",
+			"gutter-width",
+			"gutter",
+			"hr",
+			" class=\"xoxo blogroll\"",
+			"class=\"xoxo blogroll\"",
+			"xoxo blogroll",
+			"xoxo ",
+			"#292929",
+			"#666",
+			"#ccc",
+			"boxFooter",
+			"footerWidgetsInner",
+			"clearfix",
+			"clear-fix",
+			"text-right",
+			"carousel-image-width",
+			"favicon",
+			"e2e2e2",
+			"$white",
+			"$brand-primary",
+			"#1FA2E1",
+			"<strong>Read more</strong>",
+			"$font-family-sans-serif",
+			"body_id",
+			"vv-carousel",
+			"main-menu",
+			"navbar-toggle",
+			"$grid-float-breakpoint",
+			"navbar-toggle",
+			"$grid-float-breakpoint",
+			".navbar-toggle",
+			"$screen",
 			"border-radius-base:",
 			"border-radius-base",
 			"radius",
@@ -600,56 +590,24 @@
 			"basic-alignment",
 			"basic-alignment pull-left",
 			"author:",
-			"vietnamvac.org",
-			".org",
-			"vietnamvac.org",
-			"author:",
-			"30px",
-			"page-header",
-			"class=\"alignleft size-full wp-image-409\" ",
-			"vietnamvac.org/",
-			"vietnamvac.org",
-			"<li><a title=\"Vietnam 2014\" href=\"",
-			"author: tnt\\n",
-			"author: ",
-			"author.html",
-			"include author",
-			"posted by",
-			"meta:",
-			"meta:[\\n.]*author:",
-			"meta:.*author:",
-			"meta:",
-			"<p>\\[nggallery id=\\d+\\]</p>\\n",
-			"<p>\\[nggallery id=\\d\\+]</p>\\n",
-			"<p>\\[nggallery id=\\d\\]</p>\\n",
-			"p>[nggallery id=4]</p>",
-			"[nggallery",
-			"gala-",
-			"glyph",
-			"international dinner",
-			"@extend",
-			"scale(",
-			"scane(",
-			"scale",
-			"transform",
-			"container",
-			"screen-md-min",
-			"container-fixed",
-			"$container-md",
-			".container",
-			"$screen-sm-min",
-			"container-fixed",
-			".container",
-			"$icon-font-path",
-			"glyph",
-			"http_fonts_path"
+			"vietnamvac.org"
 		],
 		"highlight": true,
 		"in_selection": false,
 		"preserve_case": false,
-		"regex": true,
+		"regex": false,
 		"replace_history":
 		[
+			", PhD",
+			"PhD",
+			"MD",
+			"content",
+			"search",
+			"footer",
+			"menu",
+			"header",
+			"wrapper",
+			"<strong>Read more »</strong>",
 			"[\\2](\\1)",
 			"",
 			"* ",
@@ -760,54 +718,24 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "sass/base/_layout.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 8170,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2138,
-								2138
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Syntaxes/SASS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "source/_layouts/default.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1288,
+						"buffer_size": 1494,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								964,
-								964
+								1176,
+								1176
 							]
 						],
 						"settings":
@@ -820,239 +748,17 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "vietnamvac.sublime-project",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 174,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								147,
-								147
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage"
-						},
-						"translation.x": 277.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "source/_includes/custom/header.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 151,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								151,
-								151
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "source/_includes/navigation.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 804,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								768,
-								768
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "sass/base/bootstrap/_variables.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 29898,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1480,
-								1486
-							],
-							[
-								21132,
-								21138
-							],
-							[
-								21157,
-								21163
-							],
-							[
-								21175,
-								21181
-							],
-							[
-								27432,
-								27438
-							],
-							[
-								29061,
-								29067
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Syntaxes/SASS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 182.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "sass/base/bootstrap/mixins/_vendor-prefixes.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6848,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5607,
-								5607
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Syntaxes/SASS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2310.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "sass/base/bootstrap/_component-animations.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 725,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								564,
-								612
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Syntaxes/SASS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "sass/base/bootstrap/_forms.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 12625,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								9507,
-								9469
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Syntaxes/SASS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 5015.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 10,
 					"type": "text"
 				}
 			]
 		},
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
-					"buffer": 9,
+					"buffer": 1,
 					"semi_transient": false,
 					"settings":
 					{
@@ -1063,8 +769,8 @@
 						"selection":
 						[
 							[
-								1230,
-								1234
+								2,
+								2
 							]
 						],
 						"settings":
@@ -1075,14 +781,42 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 482.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 10,
+					"buffer": 2,
+					"file": "source/about/who-we-are/index.markdown",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7934,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1031,
+								1031
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
 					"semi_transient": false,
 					"settings":
 					{
@@ -1093,8 +827,8 @@
 						"selection":
 						[
 							[
-								392,
-								393
+								1136,
+								379
 							]
 						],
 						"settings":
@@ -1102,11 +836,11 @@
 							"auto_name": "",
 							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
-						"translation.x": 2.0,
-						"translation.y": 0.0,
+						"translation.x": 0.0,
+						"translation.y": 60.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
@@ -1140,7 +874,7 @@
 		"cols":
 		[
 			0.0,
-			0.521490593286,
+			0.492925544766,
 			1.0
 		],
 		"rows":
@@ -1174,12 +908,116 @@
 		"selected_items":
 		[
 			[
+				"whoweare",
+				"source/about/who-we-are/index.markdown"
+			],
+			[
 				"customheader",
 				"source/_includes/custom/header.html"
 			],
 			[
 				"header.html",
 				"source/_includes/header.html"
+			],
+			[
+				"default",
+				"source/_layouts/default.html"
+			],
+			[
+				"customnavi",
+				"source/_includes/custom/navigation.html"
+			],
+			[
+				"",
+				"source/_includes/navigation.html"
+			],
+			[
+				"head",
+				"source/_includes/custom/head.html"
+			],
+			[
+				"navi",
+				"source/_includes/custom/navigation.html"
+			],
+			[
+				"head.htm",
+				"source/_includes/head.html"
+			],
+			[
+				"default.",
+				"source/_layouts/default.html"
+			],
+			[
+				"inde.html",
+				"source/index.html"
+			],
+			[
+				"sidebar/",
+				"sass/partials/sidebar/_base.scss"
+			],
+			[
+				"sidebarbase",
+				"sass/partials/sidebar/_base.scss"
+			],
+			[
+				"sidebar",
+				"sass/partials/_sidebar.scss"
+			],
+			[
+				"variable",
+				"sass/base/bootstrap/_variables.scss"
+			],
+			[
+				"page",
+				"source/_layouts/page.html"
+			],
+			[
+				"post",
+				"source/_layouts/post.html"
+			],
+			[
+				"naviga",
+				"source/_includes/custom/navigation.html"
+			],
+			[
+				"varia",
+				"sass/base/bootstrap/_variables.scss"
+			],
+			[
+				"variables",
+				"sass/base/bootstrap/_variables.scss"
+			],
+			[
+				"footer.html",
+				"source/_includes/custom/footer.html"
+			],
+			[
+				"index",
+				"source/index.html"
+			],
+			[
+				"customfooter",
+				"source/_includes/custom/footer.html"
+			],
+			[
+				"footer.h",
+				"source/_includes/footer.html"
+			],
+			[
+				"head.h",
+				"source/_includes/head.html"
+			],
+			[
+				"home-content",
+				"source/_includes/custom/home-content.html"
+			],
+			[
+				"index.html",
+				"source/index.html"
+			],
+			[
+				"bootstrap",
+				"source/javascripts/bootstrap.min.js"
 			],
 			[
 				"custom/header.h",
@@ -1192,14 +1030,6 @@
 			[
 				"navig",
 				"source/_includes/navigation.html"
-			],
-			[
-				"default",
-				"source/_layouts/default.html"
-			],
-			[
-				"variables",
-				"sass/base/bootstrap/_variables.scss"
 			],
 			[
 				"navigation.",
@@ -1250,10 +1080,6 @@
 				"source/_layouts/default.html"
 			],
 			[
-				"head",
-				"source/_includes/head.html"
-			],
-			[
 				"publichtm",
 				"public/index.html"
 			],
@@ -1284,10 +1110,6 @@
 			[
 				"home-conten",
 				"source/_includes/custom/home-content.html"
-			],
-			[
-				"index.html",
-				"source/index.html"
 			],
 			[
 				"twitter_sharing",
@@ -1322,10 +1144,6 @@
 				"source/about/who-we-are/index.markdown"
 			],
 			[
-				"page",
-				"source/_layouts/page.html"
-			],
-			[
 				"recentposts",
 				"source/_includes/asides/recent_posts.html"
 			],
@@ -1340,10 +1158,6 @@
 			[
 				"homecontent",
 				"source/_includes/custom/home-content.html"
-			],
-			[
-				"index",
-				"source/index.html"
 			],
 			[
 				"contact.",
@@ -1410,10 +1224,6 @@
 				"sass/base/bootstrap/_variables.scss"
 			],
 			[
-				"customnavi",
-				"source/_includes/custom/navigation.html"
-			],
-			[
 				"inter",
 				"source/_attachments/2014-03-21-alliance-international-dinner-march-2014.html"
 			],
@@ -1436,10 +1246,6 @@
 			[
 				"home-col",
 				"source/_pages/home-column-1.html"
-			],
-			[
-				"customfooter",
-				"source/_includes/custom/footer.html"
 			],
 			[
 				"footer",
@@ -1514,10 +1320,6 @@
 				"sass/_bootstrap.scss"
 			],
 			[
-				"bootstrap",
-				"public/stylesheets/bootstrap/bootstrap.css"
-			],
-			[
 				"overrid",
 				"sass/base/_overrides.scss"
 			],
@@ -1554,10 +1356,6 @@
 				"source/_includes/custom/navigation.html"
 			],
 			[
-				"head.h",
-				"source/_includes/head.html"
-			],
-			[
 				"custom/navigat",
 				"source/_includes/custom/navigation.html"
 			],
@@ -1568,10 +1366,6 @@
 			[
 				"custom/header",
 				"source/_includes/custom/header.html"
-			],
-			[
-				"default.",
-				"source/_layouts/default.html"
 			],
 			[
 				"navigation.html",
@@ -1624,66 +1418,6 @@
 			[
 				"config.y",
 				"_config.yml"
-			],
-			[
-				"config.ym",
-				"_config.yml"
-			],
-			[
-				"about",
-				"public/about/index.html"
-			],
-			[
-				"_theme.scss",
-				"sass/base/_theme.scss"
-			],
-			[
-				"screen.scss",
-				".themes/classic/sass/screen.scss"
-			],
-			[
-				"noto",
-				"source/_pages/2012-09-05-no-to-phosphorus-32.html"
-			],
-			[
-				"galler",
-				"source/_pages/2012-02-04-gallery.html"
-			],
-			[
-				"fundraisers",
-				"source/_pages/2012-02-04-fundraisers.html"
-			],
-			[
-				"gemfile",
-				"Gemfile"
-			],
-			[
-				"rake",
-				"Rakefile"
-			],
-			[
-				"theme.scss",
-				"sass/base/_theme.scss"
-			],
-			[
-				"colors.scss",
-				"sass/custom/_colors.scss"
-			],
-			[
-				"config.yml",
-				"_config.yml"
-			],
-			[
-				"_config.",
-				"_config.yml"
-			],
-			[
-				"grunt",
-				"source/_posts/2014-03-03-simple-tasks-with-grunt.markdown"
-			],
-			[
-				"jquery",
-				"_deploy/javascripts/libs/jquery.min.js"
 			]
 		],
 		"width": 0.0
@@ -1726,7 +1460,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 205.0,
+	"side_bar_width": 195.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
