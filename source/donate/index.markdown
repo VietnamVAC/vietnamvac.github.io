@@ -19,8 +19,9 @@ For donations by check, please make payable to "Vietnam VAC" and mail to:
     Vietnam VAC
     c/o Thuy Phung, MD, PhD
     Department of Pathology
-    Baylor College of Medicine
-    One Baylor Plaza, Mail Stop BCM315
+    Texas Children's Hospital
+    1102 Bates Avenue
+    Feigin Center, room FC 0830.21
     Houston, TX 77030
 
 ### A HUGE thank you to the following organizations and individuals
