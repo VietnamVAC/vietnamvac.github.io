@@ -20,6 +20,12 @@ tags: []
             <option value="2 Tickets">2 Tickets $200 USD</option>
             <option value="3 Tickets">3 Tickets $300 USD</option>
             <option value="4 Tickets">4 Tickets $400 USD</option>
+            <option value="5 Tickets">5 Tickets $500 USD</option>
+            <option value="6 Tickets">6 Tickets $600 USD</option>
+            <option value="7 Tickets">7 Tickets $700 USD</option>
+            <option value="8 Tickets">8 Tickets $800 USD</option>
+            <option value="9 Tickets">9 Tickets $900 USD</option>
+            <option value="10 Tickets">10 Tickets $1000 USD</option>
           </select> 
         </div>
       </div>
