@@ -7,9 +7,9 @@ status: publish
 type: page
 published: true
 ---
-The mission of the Vietnam Vascular Anomalies Center (VAC) is to care for underserved children and to promote mutual learning, education, and research between Vietnamese and US physicians and other healthcare providers in the diagnosis and treatment of vascular anomalies.
+The mission of the Vietnam Vascular Anomalies Center (VAC) is to care for underserved children and to promote collaboration in education and research between Vietnamese and US physicians and other healthcare providers in the diagnosis and treatment of vascular anomalies, pigmented birthmarks, scars and wounds.
 
-Disfiguring vascular anomalies are a critical public health issue for the children of Vietnam, a country which historically has lacked the means for effective and early intervention. At the Vietnam VAC, we have provided free, safe, and effective treatment for more than 700 children and have evaluated over 2000, and we are working to help more every day!
+Disfiguring vascular anomalies and birthmarks are a major health issue for the children of Vietnam, a country that lacks the means of effective and early intervention. Over the past 5 years at Vietnam VAC, we have provided free medical evaluation as well as safe and effective treatment for over 4,800 children up to 5 years of age.  Recently, we expanded our capacity to provide free medical care for children up to 12 years of age.  We are also expanding our clinical operation to include skin wound care.  We continue to expand our scope to enhance the knowledge base and technical skills of VAC physicians in other areas that affect care for these children, including laser medicine, surgery, interventional radiology, pediatric dermatology and pathology.
 
 The Vietnam VAC is seeking funds to meet its broader goals in the next 5 years. Your donation is greatly appreciated!
 
