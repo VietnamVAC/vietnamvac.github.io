@@ -1,2 +1,49 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+
+.nav.nav-pills.vv {
+  background-color: #f5f5f5;
+  border: solid 1px #ddd;
+  @include border-radius(5px);
+  padding: 5px;
+}
+
+// http://www.w3.org/Style/Examples/007/leaders.en.html
+ul.leaders {
+  max-width: 60em;
+  padding: 0;
+  overflow-x: hidden;
+  list-style: none;
+}
+ul.leaders li:before {
+  float: left;
+  width: 0;
+  white-space: nowrap;
+  content:
+ ". . . . . . . . . . . . . . . . . . . . "
+ ". . . . . . . . . . . . . . . . . . . . "
+ ". . . . . . . . . . . . . . . . . . . . "
+ ". . . . . . . . . . . . . . . . . . . . "
+ ". . . . . . . . . . . . . . . . . . . . ";
+}
+ul.leaders span:first-child {
+  padding-right: 0.33em;
+  background: white;
+}
+ul.leaders span + span {
+  float: right;
+  padding-left: 0.33em;
+  background: white
+}
+
+.leaders.vv {
+  padding: 10px 0;
+
+  span:first-child {
+    font-style: italic;
+  }
+  span:first-child,
+  span + span {
+    background: #eee;
+  }
+}

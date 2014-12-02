@@ -1,48 +1,186 @@
 ---
 layout: page
 title: 2014 Boston Benefit Concert
-categories: []
-tags: []
 ---
-<div class="panel panel-default">
-  <div class="panel-heading"><h3 class="panel-title">Buy Concert Ticket</h3></div>
-  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" class="form-horizontal">
-    <input type="hidden" name="cmd" value="_s-xclick">
-    <input type="hidden" name="hosted_button_id" value="32UFW887LD7V2">
-    <input type="hidden" name="on0" value="Count">
-    <input type="hidden" name="currency_code" value="USD">
-    <div class="panel-body">
-      <div class="form-group">
-        <label for="os2" class="control-label col-sm-4">Number of tickets</label>
-        <div class="col-sm-8">
-          <select name="os0" class="form-control">
-            <option value="1 Ticket">1 Ticket $100 USD</option>
-            <option value="2 Tickets">2 Tickets $200 USD</option>
-            <option value="3 Tickets">3 Tickets $300 USD</option>
-            <option value="4 Tickets">4 Tickets $400 USD</option>
-            <option value="5 Tickets">5 Tickets $500 USD</option>
-            <option value="6 Tickets">6 Tickets $600 USD</option>
-            <option value="7 Tickets">7 Tickets $700 USD</option>
-            <option value="8 Tickets">8 Tickets $800 USD</option>
-            <option value="9 Tickets">9 Tickets $900 USD</option>
-            <option value="10 Tickets">10 Tickets $1000 USD</option>
-          </select> 
-        </div>
+<div role="tabpanel">
+
+  <!-- Nav tabs -->
+  <ul class="nav nav-pills vv" role="tablist">
+    <li role="presentation" class="active"><a href="#info" role="tab" data-toggle="tab">Info</a></li>
+    <li role="presentation"><a href="#tickets" role="tab" data-toggle="tab">Buy tickets</a></li>
+    <li role="presentation"><a href="#program" role="tab" data-toggle="tab">Program</a></li>
+    <li role="presentation"><a href="#mymenu" role="tab" data-toggle="tab">Menu</a></li>
+    <li role="presentation"><a href="#auction" role="tab" data-toggle="tab">Silent Auction</a></li>
+  </ul>
+
+  <!-- Tab panes -->
+  <div class="tab-content">
+
+    <div role="tabpanel" class="tab-pane active" id="info">
+      <img src="http://vietnamvac.isamonkey.org/gallery/events/flyer-2014.jpg" style="max-width: 100%; margin: 20px 0;">
+
+      <h4><a href="http://www.goethe.de/ins/us/bos/uun/anf/enindex.htm">Directions and Parking</a></h4>
+
+      <p>We hope you can join us again for the 5th Annual Classical Gala on December 7th 4-8 pm, which will support the Vietnam Vascular Anomalies Center and its mission to treat children with disfiguring birthmarks. We have been working very hard to bring you this exciting program with beautiful music, lovely silent auction items, and a fantastic authentic menu for this year's event.   We are thrilled that talented soprano, <a href="http://www.yelenadudochkin.com">Yelena Dudochkin</a>, will be joining us as a soloist as well as many other amazing performers.  We are also honored that UNESCO and the International Year of Light has designated us as a collaborating partner for our humanitarian work with the VAC, which I will have a chance to represent at the Opening Ceremony in Paris in January 2015 (http://www.light2015.org/Home/About.html).</p>
+
+      <p>Most importantly, however, we are very excited to have you join us and are truly grateful for your support.  What could be better than being with our friends and supporters in the spirit of the holidays and sharing with you our joy and passion in helping the children as well as what VAC has been able to accomplish in the past year.</p>
+      <p class="text-center">
+        <img src="http://www.vietnamvac.isamonkey.org/gallery/main/year-of-light-2015.jpg">
+      </p>
+    </div>
+
+    <div role="tabpanel" class="tab-pane" id="tickets">
+      <div class="panel panel-default" style="margin-top: 20px">
+        <div class="panel-heading"><h4 class="panel-title">Buy Tickets</h4></div>
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" class="form-horizontal">
+          <input type="hidden" name="cmd" value="_s-xclick">
+          <input type="hidden" name="hosted_button_id" value="32UFW887LD7V2">
+          <input type="hidden" name="on0" value="Count">
+          <input type="hidden" name="currency_code" value="USD">
+          <div class="panel-body">
+            <div class="form-group">
+              <label for="os2" class="control-label col-sm-4">Number of tickets</label>
+              <div class="col-sm-8">
+                <select name="os0" class="form-control">
+                  <option value="1 Ticket">1 Ticket $100 USD</option>
+                  <option value="2 Tickets">2 Tickets $200 USD</option>
+                  <option value="3 Tickets">3 Tickets $300 USD</option>
+                  <option value="4 Tickets">4 Tickets $400 USD</option>
+                  <option value="5 Tickets">5 Tickets $500 USD</option>
+                  <option value="6 Tickets">6 Tickets $600 USD</option>
+                  <option value="7 Tickets">7 Tickets $700 USD</option>
+                  <option value="8 Tickets">8 Tickets $800 USD</option>
+                  <option value="9 Tickets">9 Tickets $900 USD</option>
+                  <option value="10 Tickets">10 Tickets $1000 USD</option>
+                </select> 
+              </div>
+            </div>
+          </div>
+          <div class="panel-footer text-center">
+            <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+            <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+          </div>
+        </form>
       </div>
     </div>
-    <div class="panel-footer text-center">
-      <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-      <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+
+    <div role="tabpanel" class="tab-pane" id="program">
+      <h2>Program</h2>
+
+      <ul class="leaders vv">
+        <li><span>4:00 pm</span><span>Dinner, cocktail reception & silent auction</span></li>
+        <li><span>5:00 pm</span><span>Opening remarks by Rox Anderson and Marty Mihm</span></li>
+        <li><span>5:10 pm</span><span>Presentation by Thuy Phung</span></li>
+        <li><span>5:20 pm</span><span>Music program</span></li>
+        <li><span>6:00 pm</span><span>Intermission, silent auction and dessert</span></li>
+        <li><span>7:00 pm</span><span>Music program</span></li>
+      </ul>
+
+      <h2>Music Program</h2>
+
+      <ul class="leaders vv">
+       <li><span>Selections of Vietnamese Music</span><span>Thảo Lê (Đàn Tranh)</span></li>
+       <li><span>Selections</span><span>Yelena Dudochkin (soprano) & Ellyses Kuan (piano)</span></li>
+       <li><span>Misirlou</span><span>Nicolas Roubanis, Arr. Luka Sulic & Stjepan Hauser "2Cellos"</span></li>
+       <li><span>Fragile</span><span>Sting, Arr. Luka Sulic & Stjepan Hauser "2Cellos"</span></li>
+       <li><span>With or Without You</span><span>U2, Arr. Luka Sulic & Stjepan Hauser "2Cellos"</span></li>
+       <li><span>Smells like Teen Spirit</span><span>Nirvana, Arr. Luka Sulic & Stjepan Hauser "2Cellos"</span></li>
+       <li><span></span><span>Julie Reimann & David Fisher (cellos)</span></li>
+      </ul>
+
+      <ul class="leaders vv">
+       <li><span>Popper Requiem in F-sharp minor, Opus 66</span><span>David Popper</span></li>
+       <li><span></span><span>David Fisher, Samuel Fisher & Julie Reimann (cellos)</span></li>
+       <li><span></span><span>Ellyses Kuan (piano)</span></li>
+      </ul>
+
+      <p><strong>Intermission, silent auction and dessert</strong></p>
+
+      <ul class="leaders vv">
+       <li><span>Chaconne in D minor</span><span>Johann Sebastian Bach, From violin Partita, Arr. C. Jaffe & J. Perron</span></li>
+       <li><span></span><span>Julie Reimann & David Fisher (cello)</span></li>
+      </ul>
+
+      <ul class="leaders vv">
+       <li><span>Selections</span><span>Yelena Dudochkin & Ellyses Kuan</span></li>
+      </ul>
+
+      <ul class="leaders vv">
+       <li><span>Quejas, ó la maja y el ruiseñor - The Maiden and the Nightingale</span><span>Enrique Granados</span></li>
+       <li><span>Allegro de Concierto</span><span>Enrique Granados</span></li>
+       <li><span></span><span>Ellyses Kuan (piano)</span></li>
+      </ul>
+      <hr/>
+      <ul class="leaders vv">
+       <li><span>Trio in d minor, Opus 49, Molto Allegro Agitato</span><span>Felix Mendelssohn</span></li>
+       <li><span></span><span>Jennifer Hsiao (violin), Julie Reimann (cello), Ellyses Kuan (piano)</span></li>
+      </ul>
     </div>
-  </form>
+
+    <div role="tabpanel" class="tab-pane" id="mymenu">
+      <h2>Menu</h2>
+      <p><h6>(Many items generously donated by Pho Le in Dorchester)</h6></p>
+
+      <h4>Bar</h4>
+      Red, White, and Sparkling Wine<br/>
+      Fine Crafted Regional Beer & Lemon Water
+
+      <h4>Stationary Display</h4>
+      Assorted Cheese, Vegetables & Fruit served with Crackers and Dips<br/>
+      Shrimp Cocktails
+
+      <h4>Appetizers</h4>
+      Thịt Lụi - Vietnamese Grilled Beef Skewers<br/>
+      Gỏi Cuốn - Fresh Vietnamese Spring Rolls with Shrimp and Pork<br/>
+      Chả Giò  Chay – Vietnamese Vegetarian Eggrolls (V)<br/>
+      Chả Giò – Vietnamese Eggrolls<br/>
+      Assorted Dumplings with Dipping Sauce<br/>
+      Teriyaki and Pineapple Chicken Meatballs with Raspberry Habañero Sauce
+
+      <h4>Main Course</h4>
+      Cơm Chiên Dương Châu – Vietnamese Fried Rice with Eggs and Vegetables<br/>
+      Gỏi Gà – Vietnamese Salad with Chicken, Cabbage and Herbs<br/>
+      Gà Xào Xả Ớt – Vietnamese Spicy Lemongrass Chicken<br/>
+      Mì Xào Chay – Stir Fry Noodles with Oriental Vegetables (V)<br/>
+      Đậu Hủ Xào Xả Ớt – Vietnamese Spicy Lemongrass Tofu (V)<br/>
+      Đậu Hủ Xào Cải – Stir Fry Vegetables and Tofu (V)<br/>
+      Bánh Cuốn Chả Lụa – Vietnamese Steamed Rice Noodle Rolls with Steamed Pork Sausage
+
+      <h4>Dessert</h4>
+      An Assortment of European Pastries and Tarts<br/>
+      Carrot, Raspberry, Chocolate Mouse Cakes<br/>
+      Coffee/Tea
+    </div>
+
+    <div role="tabpanel" class="tab-pane" id="auction">
+      <h2>Partial list of auction items</h2>
+
+      Patriots Authentic Football Jersey Signed by Tom Brady<br/>
+      Patriots Authentic Football Signed by Tom Brady – Donated by the MGH Human Resources Office<br/>
+      Patriots Authentic Football Signed by Jamie Collins - Donated by the Patriots Charitable Foundation – Mr. Josh Kraft<br/>
+      Boston Bruins Official Puck Signed by Chris Kelly – Donated by the Boston Bruins<br/>
+      Boston Red Sox Official Baseball Signed by Junichi Tazawa – Donated by the Boston Red Sox<br/>
+      Boston Celtics Official Autographed Photo – Donated by the Boston Celtics<br/>
+      The Liberty Hotel Weekend night stay complete with city skyline – Donated by The Liberty Hotel - <a href="http://www.libertyhotel.com">Link</a><br/>
+      Element Day Aveda Spa $100  gift certificates - <a href="http://elementsalonspa.com/home">Link</a><br/>
+      Shine Physical Activity Monitor Special Collectible Edition in beautiful wooden box - not available for sale (Donated by Misfit Wearables) – <a href="http://store.misfitwearables.com/products/misfit-shine">Link</a><br/>
+      Beddit Sleep Monitor – Donated by Misfit Wearables - <a href="http://shop-us.beddit.com/collections/frontpage/products/beddit">Link</a><br/>
+      Original Oil Painting of a Tiger by our own Wellman Fellow – Dr. Joshua Tam<br/>
+      Original Photographs by Dr. Jay Cohen - <a href="http://www.jaycohenphotography.com">Link</a><br/>
+      Hoi An, Vietnam Famous House of Tan Ky’s Hand Embroidered Peacock Table Cloth (Donated by Dr. Betty Yu) - <a href="http://www.tripadvisor.com/Attraction_Review-g298082-d454961-Reviews-Old_House_of_Tan_Ky-Hoi_An_Quang_Nam_Province.html">Link</a><br/>
+      Fine Thai Silk Shawl by Renown House of Jim Thompson (Donated by Dr. Garuna Kositratna) - <a href="http://www.jimthompson.com/index.asp">Link</a><br/>
+      Gift Basket of Thymes Frasier Fir Products – Donated by the MGH Flower Shop - <a href="http://www.thymes.com/Fragrances/Frasier-Fir">Link</a><br/>
+      Kate Spade Hardwood Place Sinclair Satchel and Handbag – Donated by Yen Yen Lim<br/>
+      Portrait package with Thuy Pham Photography (Donated by Thuy Pham) - <a href="http://thuyhpham.com">Link</a><br/>
+      Painting by An Phan (donated by the artist) - <a href="http://www.vinhphanart.com/Photo-Gallery.html">Link</a><br/>
+      Hair Cut/Color Package from Dellaria Salon - <a href="http://dellaria.com/locations/hair-salon-brookline-ma">Link</a><br/>
+      Gift Box of Fine Italian Wines and Crystal Decanter – Donated by Toan Dinh<br/>
+      One of a kind Vietnamese Four Panels Lacquered Painting of Birds in the Snow <br/>
+      Lacquer boxes Encrusted with Mother of Pearls, hand made in Vietnam<br/>
+      Vietnamese Silk  Table Runners<br/>
+      Vietnamese Fine Mother-Of-Pearl Encrusted Tableware<br/>
+      Amongst many others including Lindt Gift Basket, Spa certificates, Bowling Party at the Classy Bowling Joint, YMCA 3 months membership, JP Licks Gift Certificates, Wholefoods Gift Certificates, and many other items of artistic and authentic traditional value
+    </div>
+  </div>
+
 </div>
-
-![](http://vietnamvac.isamonkey.org/gallery/events/flyer-2014.jpg)
-
-On behalf of the VAC, we would love for you to join us again for our 5th annual benefit concert at the beautiful Goethe Institut, Boston on December 7th from 4-8 pm (the earlier time is due to the fact that this is on a Sunday).  We promise another exciting evening of friendship, beautiful music in an intimate space, silent auctions, and wonderful food!   Please mark your calendar. More details will come as we move closer to the date. 
-
-We are also very excited to announce the creation of a new wound care center in Ho Chi Minh City in partnership with the Serena Group Wound Management Team of [Drs. Thomas Serena and Lam Le](http://www.serenagroups.com/management/management.html).  We are working on the details but hope to inaugurate our new team and center in March of this year during our annual volunteer trip to Vietnam.   Much has been accomplished in the past years at Vietnam VAC, foremost is the expanded capacity to treat burn scars, vitiligo, as well as the abolishment of the use of radioactive phosphorus to treat children with hemangioma,  the formal establishment of an official center with the University of Medicine and Pharmacy of Ho Chi Minh City, and the expansion of VAC to a new and larger space,  all made possible with the generous support of all of you!  This coming March,  we will be holding another CME course with the goal of education and exchange of expertise with our colleagues in Vietnam in areas such as dermatopathology, vascular anomalies, interventional radiology, pediatric dermatology,  and surgical treatment of complicated vascular defects.
-
-In the mean time, please keep abreast of our work by viewing some of the [before and after photos](/events/gallery/before-after-2014) of the children we have treated. We hope they bring you as much joy as they do for us. It’s a privilege to take care of these children and in the words of Rox: "The best thing we do all year!
-
-We are very grateful for your continued support and friendship.  And we look forward to seeing you at the benefit this coming December!
