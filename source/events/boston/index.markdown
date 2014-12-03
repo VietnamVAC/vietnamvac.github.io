@@ -79,7 +79,11 @@ title: 2014 Boston Benefit Concert
       <h2>Music Program</h2>
 
       <ul class="leaders vv">
-       <li><span>Selections of Vietnamese Music</span><span>Thảo Lê (Đàn Tranh)</span></li>
+       <li><span>Jazz piano during cocktail reception</span><span>Samuel Fisher</span></li>
+      </ul>
+
+      <ul class="leaders vv">
+       <li><span>Selections of Vietnamese Music</span><span>Thảo&nbsp;Lê&nbsp;(Đàn&nbsp;Tranh)</span></li>
        <li><span>Selections</span><span>Yelena Dudochkin (soprano) & Ellyses Kuan (piano)</span></li>
        <li><span>Misirlou</span><span>Nicolas Roubanis, Arr. Luka Sulic & Stjepan Hauser "2Cellos"</span></li>
        <li><span>Fragile</span><span>Sting, Arr. Luka Sulic & Stjepan Hauser "2Cellos"</span></li>
@@ -172,7 +176,7 @@ title: 2014 Boston Benefit Concert
       Gift Basket of Thymes Frasier Fir Products – Donated by the MGH Flower Shop - <a href="http://www.thymes.com/Fragrances/Frasier-Fir">Link</a><br/>
       Kate Spade Hardwood Place Sinclair Satchel and Handbag – Donated by Yen Yen Lim<br/>
       Portrait package with Thuy Pham Photography (Donated by Thuy Pham) - <a href="http://thuyhpham.com">Link</a><br/>
-      Painting by An Phan (donated by the artist) - <a href="http://www.vinhphanart.com/Photo-Gallery.html">Link</a><br/>
+      Painting by Vinh Phan (donated by the artist) - <a href="http://www.vinhphanart.com/Photo-Gallery.html">Link</a><br/>
       Hair Cut/Color Package from Dellaria Salon - <a href="http://dellaria.com/locations/hair-salon-brookline-ma">Link</a><br/>
       Gift Box of Fine Italian Wines and Crystal Decanter – Donated by Toan Dinh<br/>
       One of a kind Vietnamese Four Panels Lacquered Painting of Birds in the Snow <br/>
