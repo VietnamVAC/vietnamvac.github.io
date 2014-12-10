@@ -13,8 +13,8 @@ published: true
   <div class="col-sm-4 col-md-4">
     <div class="thumbnail">
       <a href="/media/boston-2014">
-        <img src="http://vietnamvac.isamonkey.org/gallery/thumbs/thumb-coming-soon.png">
-        <div class="caption">Boston Gala 2014 (TBA)</div>
+        <img src="http://vietnamvac.isamonkey.org/gallery/thumbs/thumb-boston-2014.png">
+        <div class="caption">Boston Gala 2014 <span class="alert-danger"><span class="glyphicon glyphicon-star"><span> NEW</span></div>
       </a>
     </div>
   </div>
