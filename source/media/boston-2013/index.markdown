@@ -7,7 +7,7 @@ status: publish
 type: page
 published: true
 ---
-<p><a title="Gallery" href="/events/gallery/">Back to Gallery</a></p>
+<p><a title="Gallery" href="/media/">Back to Media Gallery</a></p>
 <p>We sincerely thank all of our friends and sponsors for supporting our work.</p>
 <p>Gold Sponsor<br />
 <a href="http://www.rehmafund.org">The Rehma Fund for Children</a></p>

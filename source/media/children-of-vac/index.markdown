@@ -7,7 +7,7 @@ status: publish
 type: page
 published: true
 ---
-<p><a title="Gallery" href="/events/gallery/">Back to Gallery</a></p>
+<p><a title="Gallery" href="/media/">Back to Media Gallery</a></p>
 <p>Not only are vascular anomalies the cause of great suffering for our patients, they are also the source of great strain for their loved ones.  By treating these conditions, we hope to restore some measure of normalcy to their lives.</p>
 <p>Our patients are primarily children. These are some of the children whom we've treated.</p>
 

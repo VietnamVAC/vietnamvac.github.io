@@ -7,7 +7,7 @@ status: publish
 type: page
 published: true
 ---
-<p><a title="Gallery" href="/events/gallery/">Back to Gallery</a></p>
+<p><a title="Gallery" href="/media/">Back to Media Gallery</a></p>
 
 Thank you so much to everyone that came out for the Houston Benefit. [Thank you letter](/events/thank-you-letter.html) ([Thư cám ơn](/events/thu-cam-on.html)).
 

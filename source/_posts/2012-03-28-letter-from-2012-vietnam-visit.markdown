@@ -29,4 +29,4 @@ Tri Nguyen, MD
 Thuy Phung, MD PhD  
 Thanh Nga T. Tran, MD PhD
 
-PS: Please [view the photos](/events/gallery/vietnam-2012/) from our trip
+PS: Please [view the photos](/media/vietnam-2012/) from our trip

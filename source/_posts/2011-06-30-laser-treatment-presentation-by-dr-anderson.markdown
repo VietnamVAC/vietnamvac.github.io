@@ -10,5 +10,5 @@ published: true
 ---
 See below for a short video featuring renowned Harvard laser expert, Dr. Rox Anderson, discussing the laser treatment of vascular birthmarks and the humanitarian work we are doing to help children with vascular anomalies in Saigon.
 
-<iframe src="http://www.youtube.com/embed/rJrtVIbRF2s?modestbranding=1" allowfullscreen="true"></iframe>
+<iframe src="http://www.youtube.com/embed/rJrtVIbRF2s?modestbranding=1" allowfullscreen="true" height="400px" width="100%"></iframe>
 

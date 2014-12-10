@@ -7,7 +7,7 @@ date: 2012-09-18
 ---
 ![](http://www.vietnamvac.isamonkey.org/gallery/main/boston-banner-2012.jpg)
 
-In the spirit of helping the children, please save the date for Vietnam VAC's 2013 Boston Benefit Concert. We promise another exciting evening of friendship, beautiful classical music in an intimate space, and wonderful food,  with 100% of the proceeds goes to benefit the direct operations of Vietnam VAC in treating the children. Please see our [photo galleries](/events/gallery) for past benefits.  We hope to see you there!
+In the spirit of helping the children, please save the date for Vietnam VAC's 2013 Boston Benefit Concert. We promise another exciting evening of friendship, beautiful classical music in an intimate space, and wonderful food,  with 100% of the proceeds goes to benefit the direct operations of Vietnam VAC in treating the children. Please see our [photo galleries](/media) for past benefits.  We hope to see you there!
 
 Benefit Concert for Vietnam Vascular Anomalies Center  
 Sunday, December 15 @ 4:00p  

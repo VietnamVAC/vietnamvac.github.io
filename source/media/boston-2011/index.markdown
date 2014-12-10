@@ -7,7 +7,7 @@ status: publish
 type: page
 published: true
 ---
-<p><a title="Gallery" href="/events/gallery/">Back to Gallery</a></p>
+<p><a title="Gallery" href="/media/">Back to Media Gallery</a></p>
 <!-- Darkbox -->
 <div class="darkbox">
 <a href="http://vietnamvac.isamonkey.org/gallery/boston-2011/dsc_6697.jpg" data-darkbox="boston-2011">

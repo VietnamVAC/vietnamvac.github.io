@@ -7,7 +7,7 @@ status: publish
 type: page
 published: true
 ---
-<p><a title="Gallery" href="/events/gallery/">Back to Gallery</a></p>
+<p><a title="Gallery" href="/media/">Back to Media Gallery</a></p>
 <!-- Darkbox -->
 <div class="darkbox">
 <a href="http://vietnamvac.isamonkey.org/gallery/doctors-at-work/dsc09055.jpg" data-darkbox="doctors-at-work">

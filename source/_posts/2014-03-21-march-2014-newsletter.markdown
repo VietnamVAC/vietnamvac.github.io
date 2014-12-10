@@ -14,9 +14,9 @@ With great excitement, we would like to share with you our first Vietnam VAC new
 
 We also would like to highlight that our activities at Vietnam VAC were filmed and shown on national Vietnamese TV on Feb 28. Below are the two YOUTUBE web links of the TV clip. Sorry, it is all in Vietnamese, but hopefully you can see in the images what we did in Vietnam.
 
-<iframe src="http://www.youtube.com/embed/S9YJn-ClUlo?modestbranding=1" allowfullscreen="true"></iframe>
+<iframe src="http://www.youtube.com/embed/S9YJn-ClUlo?modestbranding=1" allowfullscreen="true" height="200px" width="auto"></iframe>
 
-<iframe src="http://www.youtube.com/embed/NW-C_dWCFs0?modestbranding=1" allowfullscreen="true"></iframe>
+<iframe src="http://www.youtube.com/embed/NW-C_dWCFs0?modestbranding=1" allowfullscreen="true" height="200px" width="auto"></iframe>
 
 And in case you haven’t heard enough about Vietnam VAC, Thanh Nga is giving a talk at the Massachusetts Medical Society International Dinner (also a fundraiser for our clinic) about the activities of Vietnam VAC. We would love your presence and support. Please <a href='http://vietnamvac.isamonkey.org/documents/Alliance-International-Dinner-March-2014.pdf'>view the brochure </a> or see below for more information.
 
