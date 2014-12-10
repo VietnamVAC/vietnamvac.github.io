@@ -30,7 +30,7 @@
         <loc>
             http://vietnamvac.org/blog/2011/06/30/laser-treatment-presentation-by-dr-anderson/
         </loc>
-        <lastmod>2014-06-03T19:11:54-04:00</lastmod>
+        <lastmod>2014-12-09T21:34:06-05:00</lastmod>
     </url>
     <url>
         <loc>http://vietnamvac.org/blog/2012/01/27/press-coverage-for-2011-gala/</loc>
@@ -38,7 +38,7 @@
     </url>
     <url>
         <loc>http://vietnamvac.org/blog/2012/03/28/letter-from-2012-vietnam-visit/</loc>
-        <lastmod>2014-06-03T19:11:54-04:00</lastmod>
+        <lastmod>2014-12-09T12:43:29-05:00</lastmod>
     </url>
     <url>
         <loc>
@@ -90,7 +90,7 @@
     </url>
     <url>
         <loc>http://vietnamvac.org/blog/2014/03/21/march-2014-newsletter/</loc>
-        <lastmod>2014-06-03T19:11:54-04:00</lastmod>
+        <lastmod>2014-12-09T21:40:11-05:00</lastmod>
     </url>
     <url>
         <loc>http://vietnamvac.org/blog/2014/04/30/2014-newsletter/</loc>
@@ -105,6 +105,10 @@
             http://vietnamvac.org/blog/2014/11/24/thanh-nga-to-speak-at-the-laser-2015-conference/
         </loc>
         <lastmod>2014-11-24T21:04:11-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://vietnamvac.org/about/contact/</loc>
+        <lastmod>2014-12-09T21:40:11-05:00</lastmod>
     </url>
     <url>
         <loc>http://vietnamvac.org/about/history/</loc>
@@ -124,15 +128,11 @@
     </url>
     <url>
         <loc>http://vietnamvac.org/blog/archives/</loc>
-        <lastmod>2014-11-24T21:04:11-05:00</lastmod>
+        <lastmod>2014-12-09T21:40:11-05:00</lastmod>
     </url>
     <url>
         <loc>http://vietnamvac.org/blog/</loc>
-        <lastmod>2014-11-24T21:04:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://vietnamvac.org/contact/</loc>
-        <lastmod>2014-11-24T21:04:11-05:00</lastmod>
+        <lastmod>2014-12-09T21:40:11-05:00</lastmod>
     </url>
     <url>
         <loc>http://vietnamvac.org/donate/</loc>
@@ -144,55 +144,7 @@
     </url>
     <url>
         <loc>http://vietnamvac.org/events/boston-gala-tickets.html</loc>
-        <lastmod>2014-06-03T19:22:02-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://vietnamvac.org/events/gallery/before-after-2014/</loc>
-        <lastmod>2014-11-24T21:04:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://vietnamvac.org/events/gallery/boston-2010/</loc>
-        <lastmod>2014-06-03T19:22:02-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://vietnamvac.org/events/gallery/boston-2011/</loc>
-        <lastmod>2014-06-03T19:22:02-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://vietnamvac.org/events/gallery/boston-2012/</loc>
-        <lastmod>2014-06-03T19:22:02-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://vietnamvac.org/events/gallery/boston-2013/</loc>
-        <lastmod>2014-06-03T19:22:02-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://vietnamvac.org/events/gallery/children-of-vac/</loc>
-        <lastmod>2014-06-03T19:22:02-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://vietnamvac.org/events/gallery/doctors-at-work/</loc>
-        <lastmod>2014-06-03T19:22:02-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://vietnamvac.org/events/gallery/houston-2011/</loc>
-        <lastmod>2014-06-03T19:22:02-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://vietnamvac.org/events/gallery/</loc>
-        <lastmod>2014-08-26T17:12:15-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://vietnamvac.org/events/gallery/vietnam-2009-2011/</loc>
-        <lastmod>2014-06-03T19:22:02-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://vietnamvac.org/events/gallery/vietnam-2012/</loc>
-        <lastmod>2014-06-03T19:22:02-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://vietnamvac.org/events/gallery/vietnam-2014/</loc>
-        <lastmod>2014-06-03T19:22:02-04:00</lastmod>
+        <lastmod>2014-12-09T12:43:30-05:00</lastmod>
     </url>
     <url>
         <loc>http://vietnamvac.org/events/thank-you-letter.html</loc>
@@ -204,7 +156,55 @@
     </url>
     <url>
         <loc>http://vietnamvac.org/</loc>
-        <lastmod>2014-11-24T21:04:11-05:00</lastmod>
+        <lastmod>2014-12-09T21:40:11-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://vietnamvac.org/media/before-after-2014/</loc>
+        <lastmod>2014-12-09T21:40:11-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://vietnamvac.org/media/boston-2010/</loc>
+        <lastmod>2014-12-09T12:43:30-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://vietnamvac.org/media/boston-2011/</loc>
+        <lastmod>2014-12-09T12:43:30-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://vietnamvac.org/media/boston-2012/</loc>
+        <lastmod>2014-12-09T12:43:30-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://vietnamvac.org/media/boston-2013/</loc>
+        <lastmod>2014-12-09T12:43:30-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://vietnamvac.org/media/children-of-vac/</loc>
+        <lastmod>2014-12-09T12:43:30-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://vietnamvac.org/media/doctors-at-work/</loc>
+        <lastmod>2014-12-09T12:43:30-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://vietnamvac.org/media/houston-2011/</loc>
+        <lastmod>2014-12-09T12:43:30-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://vietnamvac.org/media/</loc>
+        <lastmod>2014-12-09T22:33:08-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://vietnamvac.org/media/vietnam-2009-2011/</loc>
+        <lastmod>2014-12-09T12:43:30-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://vietnamvac.org/media/vietnam-2012/</loc>
+        <lastmod>2014-12-09T12:43:30-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://vietnamvac.org/media/vietnam-2014/</loc>
+        <lastmod>2014-12-09T12:43:30-05:00</lastmod>
     </url>
     <url>
         <loc>http://vietnamvac.org/robots.txt</loc>
