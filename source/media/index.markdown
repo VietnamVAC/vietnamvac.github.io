@@ -8,13 +8,22 @@ type: page
 published: true
 ---
 
-
 <div class="row">
-  <div class="col-sm-4 col-md-4">
+  <div class="col-sm-12 col-md-12">
+    <div class="thumbnail">
+      <a href="/media/vietnam-2015">
+        <img src="http://vietnamvac.isamonkey.org/gallery/thumbs/thumb-vietnam-2015-800x250.jpg">
+        <div class="caption">Vietnam 2015 <span class="alert-danger"><i class="glyphicon glyphicon-star"></i> NEW</span></div>
+      </a>
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
       <a href="/media/boston-2014">
         <img src="http://vietnamvac.isamonkey.org/gallery/thumbs/thumb-boston-2014.png">
-        <div class="caption">Boston Gala 2014 <span class="alert-danger"><span class="glyphicon glyphicon-star"><span> NEW</span></div>
+        <div class="caption">Boston Gala 2014</div>
       </a>
     </div>
   </div>
@@ -65,8 +74,8 @@ published: true
       <a href="/media/vietnam-2012">
         <img src="http://vietnamvac.isamonkey.org/gallery/thumbs/thumb-vietnam-2012.png">
         <div class="caption">Vietnam trip, March 2012</div>
-      </div>
-    </a>
+      </a>
+    </div>
   </div>
 </div>
 <div class="row">
