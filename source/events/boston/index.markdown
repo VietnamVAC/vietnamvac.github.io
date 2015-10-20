@@ -1,8 +1,11 @@
 ---
 layout: page
-title: 2014 Boston Benefit Concert
+title: 2015 Boston Benefit Concert
 ---
-<div role="tabpanel">
+<p>We hope you will join us for our 6th Annual Classical Gala on December 5, 2015.  Please check back for more details.</p>
+<img src="http://vietnamvac.isamonkey.org/gallery/events/flyer-2015.jpg" style="width: 100%; margin: 20px 0;">
+
+<div role="tabpanel" style="visibility: hidden">
 
   <!-- Nav tabs -->
   <ul class="nav nav-pills vv" role="tablist">
