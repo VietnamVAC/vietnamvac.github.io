@@ -7,6 +7,7 @@ title: 2014 Boston Benefit Concert
   <!-- Nav tabs -->
   <ul class="nav nav-pills vv" role="tablist">
     <li role="presentation" class="active"><a href="#info" role="tab" data-toggle="tab">Info</a></li>
+    <li role="presentation"><a href="#tickets" role="tab" data-toggle="tab">Buy tickets</a></li>
     <li role="presentation"><a href="#program" role="tab" data-toggle="tab">Program</a></li>
     <li role="presentation"><a href="#mymenu" role="tab" data-toggle="tab">Menu</a></li>
     <li role="presentation"><a href="#auction" role="tab" data-toggle="tab">Silent Auction</a></li>
@@ -26,6 +27,41 @@ title: 2014 Boston Benefit Concert
       <p class="text-center">
         <img src="http://www.vietnamvac.isamonkey.org/gallery/main/year-of-light-2015.jpg" style="max-width: 100%">
       </p>
+    </div>
+
+    <div role="tabpanel" class="tab-pane" id="tickets">
+      <div class="panel panel-default" style="margin-top: 20px">
+        <div class="panel-heading"><h4 class="panel-title">Buy Tickets</h4></div>
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" class="form-horizontal">
+          <input type="hidden" name="cmd" value="_s-xclick">
+          <input type="hidden" name="hosted_button_id" value="32UFW887LD7V2">
+          <input type="hidden" name="on0" value="Count">
+          <input type="hidden" name="currency_code" value="USD">
+          <div class="panel-body">
+            <div class="form-group">
+              <label for="os2" class="control-label col-sm-4">Number of tickets</label>
+              <div class="col-sm-8">
+                <select name="os0" class="form-control">
+                  <option value="1 Ticket">1 Ticket $100 USD</option>
+                  <option value="2 Tickets">2 Tickets $200 USD</option>
+                  <option value="3 Tickets">3 Tickets $300 USD</option>
+                  <option value="4 Tickets">4 Tickets $400 USD</option>
+                  <option value="5 Tickets">5 Tickets $500 USD</option>
+                  <option value="6 Tickets">6 Tickets $600 USD</option>
+                  <option value="7 Tickets">7 Tickets $700 USD</option>
+                  <option value="8 Tickets">8 Tickets $800 USD</option>
+                  <option value="9 Tickets">9 Tickets $900 USD</option>
+                  <option value="10 Tickets">10 Tickets $1000 USD</option>
+                </select> 
+              </div>
+            </div>
+          </div>
+          <div class="panel-footer text-center">
+            <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+            <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+          </div>
+        </form>
+      </div>
     </div>
 
     <div role="tabpanel" class="tab-pane" id="program">
