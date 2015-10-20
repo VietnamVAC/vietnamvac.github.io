@@ -4,8 +4,5 @@ title: 2014 Newsletter
 categories:
 - Newsletter
 tags: []
-status: publish
-type: post
-published: true
 ---
-View our [2014 Newsletter](http://vietnamvac.isamonkey.org/documents/report-2014.pdf) (PDF)
+View our [March 2014 Newsletter](http://vietnamvac.isamonkey.org/documents/newsletter-2014.pdf) (PDF)
