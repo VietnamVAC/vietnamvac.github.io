@@ -2,10 +2,7 @@
 layout: page
 title: 2015 Boston Benefit Concert
 ---
-<p>We hope you will join us for our 6th Annual Classical Gala on December 5, 2015.  Please check back for more details.</p>
-<img src="http://vietnamvac.isamonkey.org/gallery/events/flyer-2015.jpg" style="width: 100%; margin: 20px 0;">
-
-<div role="tabpanel" style="visibility: hidden">
+<div role="tabpanel">
 
   <!-- Nav tabs -->
   <ul class="nav nav-pills vv" role="tablist">
@@ -14,19 +11,15 @@ title: 2015 Boston Benefit Concert
     <li role="presentation"><a href="#program" role="tab" data-toggle="tab">Program</a></li>
     <li role="presentation"><a href="#mymenu" role="tab" data-toggle="tab">Menu</a></li>
     <li role="presentation"><a href="#auction" role="tab" data-toggle="tab">Silent Auction</a></li>
-  </ul>
+ </ul>
 
   <!-- Tab panes -->
   <div class="tab-content">
 
     <div role="tabpanel" class="tab-pane active" id="info">
-      <img src="http://vietnamvac.isamonkey.org/gallery/events/flyer-2014.jpg" style="max-width: 100%; margin: 20px 0;">
+      <img src="http://vietnamvac.isamonkey.org/gallery/events/flyer-2015.jpg" style="width: 100%; margin: 20px 0;">
 
       <p class="text-center"><a href="http://www.goethe.de/ins/us/bos/uun/anf/enindex.htm">Directions and Parking</a></p> 
-
-      <p>We hope you can join us again for the 5th Annual Classical Gala on December 7th 4-8 pm, which will support the Vietnam Vascular Anomalies Center and its mission to treat children with disfiguring birthmarks. We have been working very hard to bring you this exciting program with beautiful music, lovely silent auction items, and a fantastic authentic menu for this year's event.   We are thrilled that talented soprano, <a href="http://www.yelenadudochkin.com">Yelena Dudochkin</a>, will be joining us as a soloist as well as many other amazing performers.  We are also honored that UNESCO and the International Year of Light has designated us as a collaborating partner for our humanitarian work with the VAC, which I will have a chance to represent at the Opening Ceremony in Paris in January 2015 (http://www.light2015.org/Home/About.html).</p>
-
-      <p>Most importantly, however, we are very excited to have you join us and are truly grateful for your support.  What could be better than being with our friends and supporters in the spirit of the holidays and sharing with you our joy and passion in helping the children as well as what VAC has been able to accomplish in the past year.</p>
       <p class="text-center">
         <img src="http://www.vietnamvac.isamonkey.org/gallery/main/year-of-light-2015.jpg" style="max-width: 100%">
       </p>
@@ -68,7 +61,7 @@ title: 2015 Boston Benefit Concert
     </div>
 
     <div role="tabpanel" class="tab-pane" id="program">
-      <h2>Program</h2>
+      <h2>Sample program from 2014</h2>
 
       <ul class="leaders vv">
         <li><span>4:00 pm</span><span>Dinner, cocktail reception & silent auction</span></li>
@@ -125,7 +118,7 @@ title: 2015 Boston Benefit Concert
     </div>
 
     <div role="tabpanel" class="tab-pane" id="mymenu">
-      <h2>Menu</h2>
+      <h2>Sample menu from 2014</h2>
       <p><h6>(Many items generously donated by Pho Le in Dorchester)</h6></p>
 
       <h4>Bar</h4>
@@ -160,7 +153,7 @@ title: 2015 Boston Benefit Concert
     </div>
 
     <div role="tabpanel" class="tab-pane" id="auction">
-      <h2>Partial list of auction items</h2>
+      <h2>Sample auction items from 2014</h2>
 
       Patriots Authentic Football Jersey Signed by Tom Brady<br/>
       Patriots Authentic Football Signed by Tom Brady – Donated by the MGH Human Resources Office<br/>
