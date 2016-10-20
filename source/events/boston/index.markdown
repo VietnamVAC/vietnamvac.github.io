@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2015 Boston Benefit Concert
+title: 2016 Boston Benefit Concert
 ---
 <div role="tabpanel">
 
@@ -17,7 +17,7 @@ title: 2015 Boston Benefit Concert
   <div class="tab-content">
 
     <div role="tabpanel" class="tab-pane active" id="info">
-      <img src="http://vietnamvac.isamonkey.org/gallery/events/flyer-2015.jpg" style="width: 100%; margin: 20px 0;">
+      <img src="http://vietnamvac.isamonkey.org/gallery/events/flyer-2016.jpg" style="width: 100%; margin: 20px 0;">
 
       <p class="text-center"><a href="http://www.goethe.de/ins/us/bos/uun/anf/enindex.htm">Directions and Parking</a></p> 
       <p class="text-center">
@@ -61,7 +61,7 @@ title: 2015 Boston Benefit Concert
     </div>
 
     <div role="tabpanel" class="tab-pane" id="program">
-      <h2>Program</h2>
+      <h2>Program (2015)</h2>
 
       <ul class="leaders vv">
         <li><span>6:00 pm</span><span>Dinner, cocktail reception & silent auction</span></li>
@@ -72,7 +72,7 @@ title: 2015 Boston Benefit Concert
         <li><span>8:45 pm</span><span>Music program</span></li>
       </ul>
 
-      <h2>Music Program</h2>
+      <h2>Music Program (2015)</h2>
 
       <ul class="leaders vv">
        <li><span>Jazz piano during cocktail reception</span><span>Jonathan & Ben Fisher</span></li>
@@ -128,7 +128,7 @@ title: 2015 Boston Benefit Concert
     </div>
 
     <div role="tabpanel" class="tab-pane" id="mymenu">
-      <h2>Sample menu from 2014</h2>
+      <h2>Menu (2015)</h2>
       <p><h6>(Many items generously donated by Pho Le in Dorchester)</h6></p>
 
       <h4>Bar</h4>
@@ -163,8 +163,7 @@ title: 2015 Boston Benefit Concert
     </div>
 
     <div role="tabpanel" class="tab-pane" id="auction">
-      <h2>Auction Items</h2>
-
+      <h2>Auction Items (2015)</h2>
 
       Patriots Authentic Football Signed by Chandler Jones – Donated by the MGH Human Resources Office<br>
       Patriots Authentic Footballs Signed by Matthew Slater and Nate Solder - Donated by the Patriots Charitable Foundation – Mr. Josh Kraft<br>
