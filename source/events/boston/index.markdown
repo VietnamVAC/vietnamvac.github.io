@@ -125,7 +125,7 @@ title: 2016 Boston Benefit Concert
 
     <div role="tabpanel" class="tab-pane" id="mymenu">
       <h2>Menu</h2>
-      <p><h6>(Many items generously donated by Pho Le in Dorchester)</h6></p>
+      <p><h6>(Many items generously donated by <a href="http://pholedorchester.com">Pho Le Dorchester</a></h6></p>
 
       <h4>Bar</h4>
       Red, White, and Sparkling Wine<br/>
