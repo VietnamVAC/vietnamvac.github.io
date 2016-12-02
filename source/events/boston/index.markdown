@@ -44,6 +44,9 @@ title: 2016 Boston Benefit Concert
           <input type="hidden" name="on0" value="Count">
           <input type="hidden" name="currency_code" value="USD">
           <div class="panel-body">
+            <div class="alert alert-info">
+              Tickets will be held in your name at the door.  We apologize but we don't send out physical tickets.
+            </div>
             <div class="form-group">
               <label for="os2" class="control-label col-sm-4">Number of tickets</label>
               <div class="col-sm-8">
@@ -82,7 +85,13 @@ title: 2016 Boston Benefit Concert
       <h2>Music Program</h2>
 
       <ul class="leaders vv">
-       <li><span>Selection (2 pieces)</span><span>Yelena Dudochkin, Soprano</span></li>
+        <li><span>Ouvre ton coeur from Ivan the Terrible</span><span>George Bizet</span>
+      </ul>
+
+      <ul class="leaders vv">
+       <li><span>Mattinata</span><span>Ruggiero Leoncavallo</span></li>
+       <li><span></span><span>Yelena Dudochkin, soprano</span></li>
+       <li><span></span><span>Konstantinos Papadakis, piano </span></li>
       </ul>
 
       <ul class="leaders vv">
@@ -90,9 +99,17 @@ title: 2016 Boston Benefit Concert
       </ul>
 
       <ul class="leaders vv">
+       <li><span>Sarabande from Suite No 1</span><span>J.S. Bach</span></li>
+       <li><span></span><span>Sasha Scolnik-Brower, cello</span></li>
+      </ul>
+
+      <ul class="leaders vv">
+       <li><span>Andante from e minor sonata</span><span>J.S. Bach</span></li>
+       <li><span></span><span>Julie Scolnik, flute</span></li>
+      </ul>
+
+      <ul class="leaders vv">
        <li><span>Piece en Fome de Habanera</span><span>Maurice Ravel</span></li>
-       <li><span></span><span>Ellyses Kuan, piano</span></li>
-       <li><span></span><span>Julie Reimann, cello</span></li>
       </ul>
 
       <ul class="leaders vv">
@@ -107,92 +124,123 @@ title: 2016 Boston Benefit Concert
        <li><span></span><span>Mariko Yasuda, piano</span></li>
       </ul>
 
-      <ul class="leaders vv">
-       <li><span>Chaconne</span><span>J.S. Bach</span></li>
-       <li><span></span><span>Julie Reimann & David Fisher (cellos)</span></li>
-      </ul>
-
       <p><strong>Intermission, silent auction and dessert</strong></p>
 
       <ul class="leaders vv">
-       <li><span>Piano Trio in E Flat Major</span><span>Franz Schubert</span></li>
+       <li><span>Trio in E-Flat Major, Op. 100, D. 929</span><span>Franz Schubert</span></li>
+       <li><span>Allegro</span><span></span></li>
+       <li><span>Andante con moto</span><span></span></li>
+       <li><span>Scherzando allegro moderato</span><span></span></li>
+       <li><span>Allegro moderato</span><span></span></li>       
+       <li><span></span><span>Young-Shin Choi, violin</span></li>
        <li><span></span><span>Julie Reimann, cello</span></li>
        <li><span></span><span>Ellyses Kuan, piano</span></li>
-       <li><span></span><span>Young-Shin Choi, violin</span></li>
       </ul>
 
     </div>
 
     <div role="tabpanel" class="tab-pane" id="mymenu">
       <h2>Menu</h2>
-      <p><h6>(Many items generously donated by <a href="http://pholedorchester.com">Pho Le Dorchester</a></h6></p>
+      <p><h6>Many items generously donated by <a href="http://pholedorchester.com">Pho Le Dorchester</a></h6></p>
 
       <h4>Bar</h4>
-      Red, White, and Sparkling Wine<br/>
-      Fine Crafted Regional Beer & Lemon Water
+      Red, White, Sparkling Wine, Iced Tea & Lemon Water<br/>
 
       <h4>Stationary Display</h4>
-      Assorted Cheese, Vegetables & Fruit served with Crackers and Dips<br/>
-      Shrimp Cocktails<br/>
-      Tempura Shrimp<br/>
-      Asian Wrap with Rotisserie Chicken
+      Assorted Cheese, Vegetables & Fruit served with Crackers and Dips<br>
+      Shrimp Cocktails<br>
+      Tempura Shrimp<br>
+      Asian Wrap with Rotisserie Chicken<br>
 
       <h4>Appetizers</h4>
-      Thịt Lụi - Vietnamese Grilled Beef Skewers<br/>
-      Gỏi Cuốn - Fresh Vietnamese Spring Rolls with Shrimp and Pork<br/>
-      Chả Giò  Chay – Vietnamese Vegetarian Eggrolls (V)<br/>
-      Chả Giò – Vietnamese Eggrolls<br/>
-      Assorted Dumplings with Dipping Sauce<br/>
-      Teriyaki and Pineapple Chicken Meatballs with Raspberry Habañero Sauce
+      Thịt Lụi - Vietnamese Grilled Beef Skewers<br>
+      Nem Lụi Huế - Vietnamese Huế Style Grilled Ham <br>
+      Gỏi Cuốn - Fresh Vietnamese Spring Rolls with Shrimp and Pork<br>
+      Chả Giò Chay – Vietnamese Vegetarian Eggrolls (V)<br>
+      Chả Giò – Vietnamese Eggrolls<br>
+      Assorted Dumplings with Dipping Sauce<br>
+      Teriyaki and Pineapple Chicken Meatballs with Roasted Pinapple Habañero Sauce<br>
 
       <h4>Main Course</h4>
-      Cơm Chiên Dương Châu – Vietnamese Fried Rice with Eggs and Vegetables<br/>
-      Gỏi Gà – Vietnamese Salad with Chicken, Cabbage and Herbs<br/>
-      Gà Xào Xả Ớt – Vietnamese Spicy Lemongrass Chicken<br/>
-      Mì Xào Chay – Stir Fry Noodles with Oriental Vegetables (V)<br/>
-      Đậu Hủ Xào Xả Ớt – Vietnamese Spicy Lemongrass Tofu (V)<br/>
-      Đậu Hủ Xào Cải – Stir Fry Vegetables and Tofu (V)<br/>
+      Cơm Chiên Dương Châu – Vietnamese Fried Rice with Eggs and Vegetables<br>
+      Gà Xào Xả Ớt– Vietnamese Spicy Lemongrass Chicken<br>
+      Mì Xào Chay – Stir Fry Noodles with Oriental Vegetables (V)<br>
+      Đậu Hủ Xào Xả Ớt – Vietnamese Spicy Lemongrass Tofu (V)<br>
+      Đậu Hủ Xào Cải – Stir Fry Vegetables and Tofu (V)<br>
+
 
       <h4>Dessert</h4>
-      An Assortment of European Pastries and Tarts<br/>
-      Assorted Vietnamese Cakes and Sweetsbr/>
-      Carrot Cake<br/>
-      Coffee/Tea
+      An Assortment of European Pastries<br>
+      Assorted Vietnamese Cakes and Sweets<br>
+      Carrot Cake<br>
+      Coffee/Tea<br>
     </div>
 
     <div role="tabpanel" class="tab-pane" id="auction">
-      <h2>Auction Items (2015)</h2>
+      <h2>Auction Items</h2>
 
-      Patriots Authentic Football Signed by Chandler Jones – Donated by the MGH Human Resources Office<br>
-      Patriots Authentic Footballs Signed by Matthew Slater and Nate Solder - Donated by the Patriots Charitable Foundation – Mr. Josh Kraft<br>
-      Red Sox Authentic Baseball signed by Dustin Pedroia – Donated by the Red Sox Charitable Foundation<br>
-      Boston Bruins Official Puck Signed by Loui Eriksson – Donated by the Boston Bruins<br>
-      Pair of Boston Symphony Tickets (concert to be determined)<br>
-      Element Day Aveda Spa $100  gift certificates<br>
-      Swarovski Shine Physical Activity Monitor <a href="https://store.misfit.com/products/sw-slake-set">Slake Set</a> - Donated by Misfit Wearables<br>
-      <a href="https://store.misfit.com/products/misfit-shine-2">Shine Fitness and Sleep Monitor</a><br>
-      <a href="https://store.misfit.com/products/bolt">Misfit Bolt</a> – wireless connected smart bulbs (set of three)<br>
-      Latisse - 5ml kit  (3 month’s supply) – Donated  by Dr. Jane Yoo<br>
-      Original Water Color of Lilies of the Nile (Apaganthus) donated by Mr. Bill Bright<br>
-      <a href="http://www.jaycohenphotography.com/">Original Photographs</a> by Dr. Jay Cohen and Svetlana Grinshpan<br>
-      <a href="http://www.thymes.com/Fragrances/Frasier-Fir">Gift Basket</a> of Thymes Frasier Fir Products – Donated by the MGH Flower Shop<br>
-      <a href="http://thuyhpham.com/">Portrait package</a> with Thuy Pham Photography (Donated by Thuy Pham)<br>
-      Hair Cut/Color Package from <a href="http://dellaria.com/locations/hair-salon-brookline-ma/">Dellaria Salon</a><br>
-      Gift Box of Fine Italian Wines and Crystal Decanter – Donated by Toan Dinh<br>
-      Lacquer boxes Encrusted with Mother of Pearls, hand made in Vietnam<br>
-      Vietnamese Silk  Table Runners and Placemats<br>
-      Vietnamese Fine Mother-Of-Pearl Encrusted lacquered vases<br>
-      <a href="http://vietnam.vnanet.vn/english/soulful-rice-paintings/103014.html">Vietnamese Rice Painting</a><br>
-      Vietnamese Original Oil paintings<br>
-      Vietnamese Embroidered Painting<br>
-      <a href="http://www.vietnamonline.com/attraction/bat-trang-porcelain-and-pottery-village.html">Vietnamese Tea set for four</a> – from Bat Trang province – famous for its porcelain wares<br>
-      Cetaphil gift basket donated by Galderma<br>
-      Trader Joe’s gift basket<br>
-      Hand-woven Silk Scarf and Hand-embroidered Pillow Covers from Laos – Donated by Thanh-Nga Tran<br>
-      Korean mother of pearl encrusted wooden boxes – Donated by Dr. Juhee Lee<br>
-      Jewelry piece from Nina Nguyen<br>
-      Amongst many others including Bowling Party at the Classy Bowling Joint, JP Licks Gift Certificates, Mani-Pedi from La Chic, Spa package from Beauty Spa, and many other items of artistic and authentic traditional value
+      Patriots Authentic Football Signed by Julian Edelman – Donated by the MGH Human Resources Office<br>
+      Patriots Authentic Footballs Signed by Tom Brady - Donated by the Patriots Charitable Foundation – Mr. Josh Kraft<br>
+      Red Sox Authentic Baseball signed by Xander Bogaerts – Donated by the Red Sox Charitable Foundation<br>
+      Boston Bruins Official Puck Signed by Frank Vatrano – Donated by the Boston Bruins<br>
+      <a href="http://www.artfusionartists.com/artist-profile-2015.php?code=878&page=0">Heart Face Painting by Gabriella Melchiorri</a><br>
+      Cabo San Lucas House Rental 4 nights – Donated by Christine Grogan<br>
+      Soda Rock Winery Set of two Red and White Wines - Worth $130 - Donated by Christine Grogan<br>
+      <a href="http://www.wboston.com/?&SWAQ=63EP&PS=LGEN_AA_DNAD_CGGL_TPRP">W Hotel one night stay</a> – Donated by the W Hotel courtesy of Mr. Nam Pham<br>
+       
+      Gift Box of Fine Italian Wines and Crystal Decanter – Donated by Toan Dinh of Vinifera Imports<br>
+      <a href="http://www.sisley-paris.com/en-US/stores/pages/view">Sisley Chestnut Hill Gift Basket Plus Facial</a>  - Worth over $1000 – Donated by Victoria Lynne of Sisley<br>
+      Autographed Football by Matthew Slater<br>
+      Autoghaphed Nate Solder Football<br>
+      Authentic Vintage Louis Vuitton Pochette bag – Donated by Fay Lee<br>
+      3 x 50 amazon gift cards, 2 x 50 legal seafoods, Chucky Cheese $35 Gift Card, iTunes $50 Gift Cards  - Donated by Yen Yen Lim and the Yue Family<br>
+      <a href="https://eltamd.com/product/uv-clear-broad-spectrum-spf-46/">Elta MD sunscreen</a>  - Donated by Dr. Jane Yoo<br>
+      <a href="https://www.skinmedica.com/Products/Protect">SkinMedica Total Defense Sunscreen Everyday Clear and Mineral Shield</a>  - Donated by Dr. Jane Yoo<br>
+      <a href="https://www.skinmedica.com/Products/Brighten/lytera">SkinMedica Lytera Skin Lightening Complex</a> -- Donated by Dr. Jane Yoo<br>
+      <a href="http://ha5.skinmedica.com">SkinMedica HA5 Rejuvenating Hydrator</a> - Donated by Dr. Jane Yoo<br>
+      <a href="https://www.skinmedica.com/products/correct/tnsessentialserum">SkinMedica TNS Essential Serum</a> – Donated by Dr. Jane Yoo<br>
+      Pair of Boston Symphony Tickets  March 18th Concert Row  R 21 & 22  - Donated by Dr. Martin Mihm<br>
+      Pair of Boston Symphony Tickets  March 18th Concert Row  S19 & 20 -  Donated by Dr. Martin Mihm<br>
+      <a href="http://elementsalonspa.com/home">Element Day Aveda Spa $100 gift certificates</a> – Donated by Element Day Spa<br>
+      One syringe of Restylane Lyft or Silk + injection – Donated by Dr. Thanh Nga Tran<br>
+      Dysport 60 units (equivalent of 20 units of Botox) + injection  - Donated by Dr. Thanh Nga Tran<br>
+      Mistfit Ray Fitness and Sleep monitor - Donated by Misfit Wearables<br>
+      <a href="https://misfit.com/products/misfit-shine-2">Shine 2 Misfit Fitness and Sleep monitor</a><br>
+      Misfit Bolt – wireless connected smart bulbs<br>
+      Original Photographs by Dr. Jay Cohen and Svetlana Grinshpan<br>
+      Gift Basket of Thymes Mandarin Coriander Products – Donated by the MGH Flower Shop<br>
+      Portrait package with Thuy Pham Photography (Donated by Thuy Pham)<br>
+      Logo Design by Man Mai  - Donated by Man Mai<br>
+      <a href="http://www.beautyspacambridge.com">Beauty Spa Gift certificate</a> – Donated by Beauty Spa<br>
+      Aveno products Gift Basket – Donated by Johnson and Johnson<br>
+      Excipial skin solutions Gift Basket – Donated by Galderma<br>
+      Lindt  Chocolates Gift Basket – Donated by Lindt<br>
+      Mani-pedi from La Chic Nail Salon<br>
+      <a href="https://www.facebook.com/IrisLaneFlorist/">Flower Arrangement from Iris Lane</a> – Donated by Tammie Truong of Iris Lane<br>
 
+      <h4>Other arts and crafts</h4>
+       
+      Framed Ha Long Bay Vietnamese Embroidered Painting<br>
+      Traditional Isan Cloths from Northeastern Thailand - Hand Woven<br>
+      Large Red Brown Fabric - Embroidered by hands w flowers, made from organic dyed cotton<br>
+      Silk Hand Woven Scarf from Laos and Thailand<br>
+      Small Blue Hand Woven Cotton Fabric - Scarf or table runner<br>
+      Set of 8 Embroidered silk placemats<br>
+      Silk embroidered table runner<br>
+      Indonesian Embroidered Silk Pillow Case<br>
+      Silk embroidered Vietnamese Purse<br>
+      Vietnamese coconut bowls inlaid w mother of pearls - set of 2<br>
+      Vietnamese Lacquered Chopstick sets with chopstick rest and case<br>
+      Vietnamese Lacquered coconut shell bowls set w gold leaf and eggshell (4)<br>
+      Bamboo Handmade Boat<br>
+      Lacquered Vietnamese Bamboo Flute<br>
+      Hmong Hand Emboidered Pillow Cases<br>
+      Lacquered painting of Hmong girl<br>
+      Small porcelain hand painted chinese tea set<br>
+      Red Lacquered Gold Leaf Box<br>
+      Red lacquered Gold Leaf Coaster Set<br>
+      Matte lacquered Black Dragon Fly Pen Holder<br>
+      Amongst many other items of artistic and authentic traditional value<br>
     </div>
   </div>
 
