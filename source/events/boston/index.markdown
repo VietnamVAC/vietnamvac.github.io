@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2016 Boston Benefit Concert
+title: 2017 Boston Benefit Concert
 ---
 <div role="tabpanel">
 
@@ -17,22 +17,9 @@ title: 2016 Boston Benefit Concert
   <div class="tab-content">
 
     <div role="tabpanel" class="tab-pane active" id="info">
-    <p>
-    We invite you to our 7th annual benefit concert at the beautiful to raise much needed funds for our clinic's continued operation and also to commemorate our beloved friend, Samuel Fisher, a son of Dr. David Fisher, who passed away tragically this past year.  Sammy, an accomplished cellist and bass player, had performed in many of our concerts together with his family.  We mourn the loss of such a talented musician and incredible young man and we are dedicating this concert in his memory.  
-    </p>
-    <p>
-    We are so fortunate to have had the support of so many of you in our mission to bring modern medical care to children with disfiguring birthmarks in Vietnam.  We are proud to say that the clinic has been doing remarkably well, treating and evaluating over 5000 children in the past seven years all on a safe, effective, and free basis!  We have become an official center at the University of Medicine and Pharmacy of Ho Chi Minh City  as well as trained many doctors in pediatric and laser dermatology, dermatopathology, interventional radiology and surgical techniques.   We have also expanded our treatment to include scarring (from radioactive phosphorus P32 as well as burns), vitiligo, as well as pigmented lesions, have successfully influenced the Cancer Hospital in Vietnam to stop the use of radioactive phosphorus, as well as establishing teledermatology capacity as we expand into Đà Nẵng and Cần Thơ provinces.  This coming year, we are hoping to partner with Indus Hospital in Karachi, Pakistan to start a <a href="http://www.indushospital.org.pk">VAC</a>,  and Dr. Anderson has also helped started a <a href="http://www.massgeneral.org/News/newsarticle.aspx?id=5927">VAC in Armenia</a>. We are continuing to strive to expand the global outreach of VAC and hope to establish a central global center to help support similar clinics worldwide.  
-    </p>
-    <p>
-    We have been very fortunate to have the continued support of world class musicians, including our very own MGH department chair and virtuoso cellist - Dr. David Fisher, heavenly-voiced soprano <a href="http://www.yelenadudochkin.com/biography.php">Yelena Dudochkin</a>, and Concert Pianist, Founder/Music Director - EKSTUDIO LLC  -  <a href="http://music.eks-arts.com/piano-faculty-bios.html">Ellyses Kuan</a>, as well as dermatopathologist and cellist extraordinaire Julie Reimann amongst many others.   It will be a small but intimate venue with amazing food, friendship, silent auction, and beautiful music.  100% of the proceeds is tax deductible and goes towards helping the children. 
-    </p>
 
-      <img src="http://vietnamvac.isamonkey.org/gallery/events/flyer-2016.jpg" style="width: 100%; margin: 20px 0;">
+      <img src="http://vietnamvac.isamonkey.org/gallery/events/flyer-2017.jpg" style="width: 100%; margin: 20px 0;">
 
-      <p class="text-center"><a href="http://www.goethe.de/ins/us/bos/uun/anf/enindex.htm">Directions and Parking</a></p> 
-      <p class="text-center">
-        <img src="http://www.vietnamvac.isamonkey.org/gallery/main/year-of-light-2015.jpg" style="max-width: 100%">
-      </p>
     </div>
 
     <div role="tabpanel" class="tab-pane" id="tickets">
@@ -74,7 +61,7 @@ title: 2016 Boston Benefit Concert
     </div>
 
     <div role="tabpanel" class="tab-pane" id="program">
-      <h2>Program</h2>
+      <h2>Program (2016)</h2>
 
       <ul class="leaders vv">
         <li><span>4:00 pm</span><span>Dinner, cocktail reception & silent auction</span></li>
@@ -82,7 +69,7 @@ title: 2016 Boston Benefit Concert
         <li><span>5:10 pm</span><span>Presentation by Thuy Phung with a short video by George Morgan</span></li>
       </ul>
 
-      <h2>Music Program</h2>
+      <h2>Music Program (2016)</h2>
 
       <ul class="leaders vv">
         <li><span>Ouvre ton coeur from Ivan the Terrible</span><span>George Bizet</span>
@@ -140,7 +127,7 @@ title: 2016 Boston Benefit Concert
     </div>
 
     <div role="tabpanel" class="tab-pane" id="mymenu">
-      <h2>Menu</h2>
+      <h2>Menu (2016)</h2>
       <p><h6>Many items generously donated by <a href="http://pholedorchester.com">Pho Le Dorchester</a></h6></p>
 
       <h4>Bar</h4>
@@ -177,7 +164,7 @@ title: 2016 Boston Benefit Concert
     </div>
 
     <div role="tabpanel" class="tab-pane" id="auction">
-      <h2>Auction Items</h2>
+      <h2>Auction Items (2016)</h2>
 
       Patriots Authentic Football Signed by Julian Edelman – Donated by the MGH Human Resources Office<br>
       Patriots Authentic Footballs Signed by Tom Brady - Donated by the Patriots Charitable Foundation – Mr. Josh Kraft<br>
