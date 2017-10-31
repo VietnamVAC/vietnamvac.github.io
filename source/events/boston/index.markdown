@@ -131,7 +131,7 @@ title: 2017 Boston Benefit Concert
     </div>
 
     <div role="tabpanel" class="tab-pane" id="mymenu">
-      <h2>Menu (2016)</h2>
+      <h2>Menu</h2>
       <p><h6>Many items generously donated by <a href="http://pholedorchester.com">Pho Le Dorchester</a></h6></p>
 
       <h4>Bar</h4>
