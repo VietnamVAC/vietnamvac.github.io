@@ -19,6 +19,29 @@ title: 2017 Boston Benefit Concert
     <div role="tabpanel" class="tab-pane active" id="info">
 
       <img src="http://vietnamvac.isamonkey.org/gallery/events/flyer-2017.jpg" style="width: 100%; margin: 20px 0;">
+      <div class="panel panel-info">
+        <div class="panel-heading">
+        Directions
+        </div>
+        <div class="panel-body">
+        First Church is located at  66 Marlborough St., Boston, MA 02116, at the corner of Berkeley and Marlborough Streets, a short walk from the Arlington St. or Copley Sq. T Stops on the Green Line. The building is fully handicap accessible with ramps, an elevator, handicap bathrooms and designated parking spots.  Parking can be found at the Boston Common Garage.<br>
+        <br>
+        By subway (MBTA): <br>
+        Green Line: Copley <br>
+        Orange Line: Back Bay Station (also Commuter Rail) <br>
+        Red Line: Charles/MGH <br>
+        <br>
+        By car:<br>
+        Boston Common Garage <br>
+        Entrance on Charles St. <br>
+        <br>
+        Back Bay Garage <br>
+        500 Boylston St. <br>
+        Entrance on St. James and Clarendon St. <br>
+        <br>
+        Both parking garages are a 5-10 minute walk from First Church. Limited metered parking on surrounding streets.<br>
+        </div>
+      </div>
 
     </div>
 
@@ -168,70 +191,57 @@ title: 2017 Boston Benefit Concert
     </div>
 
     <div role="tabpanel" class="tab-pane" id="auction">
-      <h2>Auction Items (2016)</h2>
-
+      <h2>Auction Items</h2>
+      
+      Patriots Authentic Footballs Signed by Matthew Slater - Donated by the Patriots Charitable Foundation – Mr. Josh Kraft<br>
       Patriots Authentic Football Signed by Julian Edelman – Donated by the MGH Human Resources Office<br>
-      Patriots Authentic Footballs Signed by Tom Brady - Donated by the Patriots Charitable Foundation – Mr. Josh Kraft<br>
-      Red Sox Authentic Baseball signed by Xander Bogaerts – Donated by the Red Sox Charitable Foundation<br>
-      Boston Bruins Official Puck Signed by Frank Vatrano – Donated by the Boston Bruins<br>
-      <a href="http://www.artfusionartists.com/artist-profile-2015.php?code=878&page=0">Heart Face Painting by Gabriella Melchiorri</a><br>
-      Cabo San Lucas House Rental 4 nights – Donated by Christine Grogan<br>
-      Soda Rock Winery Set of two Red and White Wines - Worth $130 - Donated by Christine Grogan<br>
-      <a href="http://www.wboston.com/?&SWAQ=63EP&PS=LGEN_AA_DNAD_CGGL_TPRP">W Hotel one night stay</a> – Donated by the W Hotel courtesy of Mr. Nam Pham<br>
-       
-      Gift Box of Fine Italian Wines and Crystal Decanter – Donated by Toan Dinh of Vinifera Imports<br>
-      <a href="http://www.sisley-paris.com/en-US/stores/pages/view">Sisley Chestnut Hill Gift Basket Plus Facial</a>  - Worth over $1000 – Donated by Victoria Lynne of Sisley<br>
-      Autographed Football by Matthew Slater<br>
-      Autoghaphed Nate Solder Football<br>
-      Authentic Vintage Louis Vuitton Pochette bag – Donated by Fay Lee<br>
-      3 x 50 amazon gift cards, 2 x 50 legal seafoods, Chucky Cheese $35 Gift Card, iTunes $50 Gift Cards  - Donated by Yen Yen Lim and the Yue Family<br>
-      <a href="https://eltamd.com/product/uv-clear-broad-spectrum-spf-46/">Elta MD sunscreen</a>  - Donated by Dr. Jane Yoo<br>
-      <a href="https://www.skinmedica.com/Products/Protect">SkinMedica Total Defense Sunscreen Everyday Clear and Mineral Shield</a>  - Donated by Dr. Jane Yoo<br>
-      <a href="https://www.skinmedica.com/Products/Brighten/lytera">SkinMedica Lytera Skin Lightening Complex</a> -- Donated by Dr. Jane Yoo<br>
-      <a href="http://ha5.skinmedica.com">SkinMedica HA5 Rejuvenating Hydrator</a> - Donated by Dr. Jane Yoo<br>
-      <a href="https://www.skinmedica.com/products/correct/tnsessentialserum">SkinMedica TNS Essential Serum</a> – Donated by Dr. Jane Yoo<br>
-      Pair of Boston Symphony Tickets  March 18th Concert Row  R 21 & 22  - Donated by Dr. Martin Mihm<br>
-      Pair of Boston Symphony Tickets  March 18th Concert Row  S19 & 20 -  Donated by Dr. Martin Mihm<br>
-      <a href="http://elementsalonspa.com/home">Element Day Aveda Spa $100 gift certificates</a> – Donated by Element Day Spa<br>
-      One syringe of Restylane Lyft or Silk + injection – Donated by Dr. Thanh Nga Tran<br>
-      Dysport 60 units (equivalent of 20 units of Botox) + injection  - Donated by Dr. Thanh Nga Tran<br>
+      Red Sox Authentic Baseball signed by Mookie Betts  – Donated by the Red Sox Charitable Foundation<br>
+      Cabo San Lucas House Rental 5 nights – Donated by Christine Grogan<br>
+      Pair of Boston Symphony Tickets  May 5th - All Brahms program Featuring Emmanuel Ax  – Donated by Dr. Martin Mihm<br>
+      <a href="https://www.facebook.com/capetportraits">Painting commision by Cathleen Ahearn</a><br>
+      Two original paintings by Peter Ng <br>
+      Photographs printed on glass by Anneli and Peter Schalock <br>
+      <a href="https://www.helidirect.com/dji-spack-fly-more-combo-sunrise-yellow.html">DJI Spark Fly More Combo Sunrise Yellow Drone</a><br>
+      Portrait package with Thuy Pham Photography (Donated by Thuy Pham)<br>
+      Logo Design by Man Mai  - Donated by Man Mai<br>
+      2 x 50 Legal Seafoods, Chucky Cheese $35 Gift Card, iTunes $100, $50 Gift Cards  - Donated by Yen Yen Lim and the Yue Family<br>
+      Wasik’s Cheese Shop in Wellesley, MA - $100 gift card<br>
+      Element Day Aveda Spa $100 gift certificates – Donated by <a href="http://elementsalonspa.com/">Element Day Spa</a><br>
+      Two passes to the New England Aquarium<br>
+      Family membership to the Children’s Museum<br>
+      Cookie Time/Lakota Bakery Gift Card<br>
+      Gift Basket of Thymes Frasier Fir Products – Donated by the MGH Flower Shop<br>
+      Hermes men tie  - Donated by Nam Pham<br>
+      <a href="https://www.hermes.com/us/en/product/ex-libris-en-cravates-maxi-twilly-cut-H093083Sv02/">Hermes woman silk scarf</a> -  Donated by Nam Pham<br>
+      Aveno products Gift Basket – Donated by Johnson and Johnson<br>
+      Lindt  Chocolates Gift Basket – Donated by Lindt<br>
+      La Roche Posay Gift Bag – Donated by Dr. Jane Yoo/LRP<br>
       Mistfit Ray Fitness and Sleep monitor - Donated by Misfit Wearables<br>
       <a href="https://misfit.com/products/misfit-shine-2">Shine 2 Misfit Fitness and Sleep monitor</a><br>
       Misfit Bolt – wireless connected smart bulbs<br>
-      Original Photographs by Dr. Jay Cohen and Svetlana Grinshpan<br>
-      Gift Basket of Thymes Mandarin Coriander Products – Donated by the MGH Flower Shop<br>
-      Portrait package with Thuy Pham Photography (Donated by Thuy Pham)<br>
-      Logo Design by Man Mai  - Donated by Man Mai<br>
-      <a href="http://www.beautyspacambridge.com">Beauty Spa Gift certificate</a> – Donated by Beauty Spa<br>
-      Aveno products Gift Basket – Donated by Johnson and Johnson<br>
-      Excipial skin solutions Gift Basket – Donated by Galderma<br>
-      Lindt  Chocolates Gift Basket – Donated by Lindt<br>
-      Mani-pedi from La Chic Nail Salon<br>
-      <a href="https://www.facebook.com/IrisLaneFlorist/">Flower Arrangement from Iris Lane</a> – Donated by Tammie Truong of Iris Lane<br>
+      Michael Kors Kinley Diamond Pave Dial Stainless Steel  Watch (Men)  - Donated by Sonny Vu<br>
+      Michael Kors 'Bradshaw' Chronograph Bracelet Watch, 43mm (Women)<br>
 
-      <h4>Other arts and crafts</h4>
-       
-      Framed Ha Long Bay Vietnamese Embroidered Painting<br>
-      Traditional Isan Cloths from Northeastern Thailand - Hand Woven<br>
+      <h3>Other arts and crafts</h3>
+
+      Authentic Embroidered Pashmina Shawl from Kashmir, Pakistan <br>
+      Arts and crafts from Karachi, Pakistan<br>
+      Traditional Vietnamese Tea Set from the Famous House of Minh Long, Vietnam<br>
+      Vietnamese Embroidered Painting<br>
+      Traditional Isan Cloths from Northeastern Thailand - Hand Woven – Donated by Dr. Garuna Kositratna<br>
       Large Red Brown Fabric - Embroidered by hands w flowers, made from organic dyed cotton<br>
       Silk Hand Woven Scarf from Laos and Thailand<br>
-      Small Blue Hand Woven Cotton Fabric - Scarf or table runner<br>
-      Set of 8 Embroidered silk placemats<br>
+      Set of Embroidered silk placemats<br>
       Silk embroidered table runner<br>
-      Indonesian Embroidered Silk Pillow Case<br>
       Silk embroidered Vietnamese Purse<br>
-      Vietnamese coconut bowls inlaid w mother of pearls - set of 2<br>
       Vietnamese Lacquered Chopstick sets with chopstick rest and case<br>
-      Vietnamese Lacquered coconut shell bowls set w gold leaf and eggshell (4)<br>
       Bamboo Handmade Boat<br>
       Lacquered Vietnamese Bamboo Flute<br>
       Hmong Hand Emboidered Pillow Cases<br>
       Lacquered painting of Hmong girl<br>
-      Small porcelain hand painted chinese tea set<br>
       Red Lacquered Gold Leaf Box<br>
       Red lacquered Gold Leaf Coaster Set<br>
-      Matte lacquered Black Dragon Fly Pen Holder<br>
-      Amongst many other items of artistic and authentic traditional value<br>
+      Many other items of artistic and authentic traditional value
     </div>
   </div>
 
