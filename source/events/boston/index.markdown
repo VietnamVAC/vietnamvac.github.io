@@ -7,7 +7,6 @@ title: 2017 Boston Benefit Concert
   <!-- Nav tabs -->
   <ul class="nav nav-pills vv" role="tablist">
     <li role="presentation" class="active"><a href="#info" role="tab" data-toggle="tab">Info</a></li>
-    <li role="presentation"><a href="#tickets" role="tab" data-toggle="tab">Buy tickets</a></li>
     <li role="presentation"><a href="#program" role="tab" data-toggle="tab">Program</a></li>
     <li role="presentation"><a href="#mymenu" role="tab" data-toggle="tab">Menu</a></li>
     <li role="presentation"><a href="#auction" role="tab" data-toggle="tab">Silent Auction</a></li>
