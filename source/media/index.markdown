@@ -29,6 +29,16 @@ published: true
 <div class="row">
   <div class="col-sm-12 col-md-12">
     <div class="thumbnail">
+      <a href="/media/boston-2016">
+        <img src="http://vietnamvac.isamonkey.org/gallery/thumbs/thumb-boston-2016-800x250.jpg">
+        <div class="caption">Boston Gala 2016</div>
+      </a>
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="col-sm-12 col-md-12">
+    <div class="thumbnail">
       <iframe src="http://www.youtube.com/embed/qwDcqnTcsqs?modestbranding=1" allowfullscreen="true" height="400px" width="100%"></iframe>
       <div class="caption">VAC 2016</div>
     </div>
