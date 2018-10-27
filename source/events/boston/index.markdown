@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2017 Boston Benefit Concert
+title: 2018 Boston Benefit Concert
 ---
 <div role="tabpanel">
 
@@ -17,7 +17,7 @@ title: 2017 Boston Benefit Concert
 
     <div role="tabpanel" class="tab-pane active" id="info">
 
-      <img src="http://vietnamvac.isamonkey.org/gallery/events/flyer-2017.jpg" style="width: 100%; margin: 20px 0;">
+      <img src="http://vietnamvac.isamonkey.org/gallery/events/flyer-2018.jpg" style="width: 100%; margin: 20px 0;">
       <div class="panel panel-info">
         <div class="panel-heading">
         Directions
@@ -83,7 +83,7 @@ title: 2017 Boston Benefit Concert
     </div>
 
     <div role="tabpanel" class="tab-pane" id="program">
-      <h2>Program</h2>
+      <h2>Program (from 2017)</h2>
 
       <ul class="leaders vv">
         <li><span>4:00 pm</span><span>Dinner, cocktail reception & silent auction</span></li>
@@ -153,7 +153,7 @@ title: 2017 Boston Benefit Concert
     </div>
 
     <div role="tabpanel" class="tab-pane" id="mymenu">
-      <h2>Menu</h2>
+      <h2>Menu (from 2017)</h2>
       <p><h6>Many items generously donated by <a href="http://pholedorchester.com">Pho Le Dorchester</a></h6></p>
 
       <h4>Bar</h4>
@@ -190,7 +190,7 @@ title: 2017 Boston Benefit Concert
     </div>
 
     <div role="tabpanel" class="tab-pane" id="auction">
-      <h2>Auction Items</h2>
+      <h2>Auction Items (from 2017)</h2>
       
       Patriots Authentic Footballs Signed by Matthew Slater - Donated by the Patriots Charitable Foundation – Mr. Josh Kraft<br>
       Patriots Authentic Football Signed by Julian Edelman – Donated by the MGH Human Resources Office<br>
