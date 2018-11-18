@@ -95,60 +95,46 @@ title: 2018 Boston Benefit Concert
       <h2>Music Program</h2>
 
       <ul class="leaders vv">
-        <li><span>Sonata in g minor, Opus 2, No. 8, Andante</span><span>George Friedrich Handel</span>
-       <li><span></span><span>David Fisher, Cello</span></li>
-       <li><span></span><span>Julie Reimann, Cello</span></li>
-       <li><span></span><span>Mariko Yasuda, Piano</span></li>
+        <li><span>Merce Dilette Amiche, from “I Vespri Siciliani”</span><span>Giuseppe Verdi</span>
       </ul>
 
       <ul class="leaders vv">
-       <li><span>The Snow Maiden Aria, from Snow Maiden</span><span>Nikolai Rimsky-Korsakov</span></li>
-       <li><span></span><span>Yelena Dudochkin, Soprano</span></li>
-       <li><span></span><span>Ellyses Kuan, Piano </span></li>
+        <li><span>Donde lieta ("La Boheme")</span><span>Giacomo Puccini</span>
+        <li><span></span><span>Yelena Dudochkin, Soprano</span></li>
+       <li><span></span><span>Xuan He, Piano</span></li>
       </ul>
 
       <ul class="leaders vv">
-       <li><span>Sara's aria All'afflitto è dolce il pianto</span><span>Roberto Devereux Gaetano Donizetti</span></li>
-       <li><span></span><span>Marina Khankhalaeva,Mezzo Soprano</span></li>
-       <li><span></span><span>Ellyses Kuan, Piano</span></li>
-      </ul>
-
-      <ul class="leaders vv">
-       <li><span>Olga and Tatiana’s Duet from Eugene Onegin</span><span>Peter Tchaikovsky</span></li>
-       <li><span></span><span>Yelena Dudochkin, Soprano</span></li>
-       <li><span></span><span>Marina Khankhalaeva, Mezzo Soprano</span></li>
-       <li><span></span><span>Ellyses Kuan, Piano</span></li>
-      </ul>
-
-      <ul class="leaders vv">
-       <li><span>Praeludium</span><span>Dmitri Shostakovich</span></li>
-      </ul>
-
-      <ul class="leaders vv">
-       <li><span>Oblivion</span><span>Astor Piazzolla</span></li>
-       <li><span></span><span>Young-Shin Choi, Violin</span></li>
-       <li><span></span><span>Julie Reimann, Cello</span></li>
-       <li><span></span><span>Ellyses Kuan, Piano</span></li>
-      </ul>
-
-      <ul class="leaders vv">
-       <li><span>Le Grand Tango </span><span>Astor Piazzolla</span></li>
-       <li><span></span><span>Julie Reimann, Cello</span></li>
-       <li><span></span><span>Ellyses Kuan, Piano</span></li>
-      </ul>
-
-      <p><strong>Intermission, silent auction and dessert</strong></p>
-
-      <ul class="leaders vv">
-       <li><span>River</span><span>Liu Yang</span></li>
+       <li><span>Night of Torch Festival</span><span>Junsheng Wu</span></li>
        <li><span></span><span>Sharon Peng, Pipa</span></li>
       </ul>
 
       <ul class="leaders vv">
-       <li><span>L’Apres-Midi d’un Faune </span><span>Claude Debussy</span></li>
-       <li><span>Sonata in A Major, Allegro</span><span>Cesar Franck</span></li>
-       <li><span></span><span>Julie Scolnik, Flute</span></li>
-       <li><span></span><span>Sophie Scolnik-Brower, Piano</span></li>
+       <li><span>Jacqueline's Tears</span><span>Jacques Offenbach</span></li>
+       <li><span></span><span>David Fisher, Cello</span></li>
+       <li><span></span><span>Mariko Yasuda, Piano</span></li>
+      </ul>
+
+      <ul class="leaders vv">
+       <li><span>Sonata in G Minor, Opus 2, No 8</span><span>George Frideric Handel</span></li>
+       <li><span></span><span>David Fisher, Cello</span></li>
+       <li><span></span><span>Julie Reimann, Cello</span></li>
+       <li><span></span><span>Ellyses Kuan, Piano</span></li>
+      </ul>
+
+      <ul class="leaders vv">
+       <li><span>Excerpts from Pictures at an Exhibition<br>(Arranged for cello and piano by Charles Schiff)<br>Promenade<br>Il Vecchio Castello (The Old Castle)<br>Tuileries<br>Bydlo<br>Promenade<br>Ballet of the Chicks in their Shells</span><span>Modeste Mussorgsky</span></li>
+      </ul>
+
+      <ul class="leaders vv">
+       <li><span>Gretchen at the Spinning Wheel</span><span>Franz Schubert</span></li>
+       <li><span></span><span>Julie Reimann, Cello</span></li>
+       <li><span></span><span>Ellyses Kuan, Piano</span></li>
+      </ul>
+
+      <ul class="leaders vv">
+       <li><span>Erlkonig</span><span>Franz Schubert/Franz Liszt</span></li>
+       <li><span></span><span>Xuan He, Piano</span></li>
       </ul>
 
     </div>
