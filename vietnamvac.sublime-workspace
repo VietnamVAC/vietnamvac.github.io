@@ -41,17 +41,26 @@
 	"file_history":
 	[
 		"/Users/yen/dev/vietnamvac.github.io/source/events/boston/index.markdown",
-		"/Users/yen/dev/vietnamvac.github.io/source/_layouts/default.html",
-		"/Users/yen/dev/vietnamvac.github.io/.git/COMMIT_EDITMSG",
-		"/Users/yen/dev/vietnamvac.github.io/source/_includes/custom/navigation.html",
-		"/Users/yen/dev/vietnamvac.github.io/source/media/index.markdown",
 		"/Users/yen/dev/vietnamvac.github.io/source/_includes/custom/home-content.html",
+		"/Users/yen/dev/vietnamvac.github.io/source/_posts/2017-01-13-mgh-newsletter-covers-the-2016-gala.markdown",
+		"/Users/yen/dev/vietnamvac.github.io/source/_posts/2015-10-19-2015-newsletter.markdown",
+		"/Users/yen/dev/vietnamvac.github.io/source/_includes/custom/navigation.html",
+		"/Users/yen/dev/vietnamvac.github.io/.git/COMMIT_EDITMSG",
+		"/Users/yen/dev/vietnamvac.github.io/source/_includes/navigation.html",
+		"/Users/yen/dev/vietnamvac.github.io/source/media/index.markdown",
+		"/Users/yen/dev/vietnamvac.github.io/source/media/vietnam-2018/index.markdown",
+		"/Users/yen/dev/vietnamvac.github.io/source/media/boston-2016/index.markdown",
+		"/Users/yen/dev/vietnamvac.github.io/source/media/vietnam-2017/index.markdown",
+		"/Users/yen/dev/tools/.git/COMMIT_EDITMSG",
+		"/Users/yen/dev/vietnamvac.github.io/source/media/vietnam-2015/index.markdown",
 		"/Users/yen/dev/vietnamvac.github.io/source/_posts/2016-11-22-mgh-newsletter-covers-the-2015-gala.markdown",
+		"/Users/yen/dev/vietnamvac.github.io/source/_posts/2018-03-13-2018-newsletter.markdown",
+		"/Users/yen/dev/vietnamvac.github.io/source/_posts/2018-03-13-mgh-newsletter-feb-2018.markdown",
+		"/Users/yen/dev/vietnamvac.github.io/source/_layouts/default.html",
 		"/Users/yen/dev/vietnamvac.github.io/source/events/boston-gala-tickets.markdown",
 		"/Users/yen/dev/vietnamvac.github.io/source/_posts/2017-09-29-mgh-newsletter-covers-the-2016-gala.markdown",
 		"/Users/yen/dev/vietnamvac.github.io/_config.yml",
 		"/Users/yen/dev/vietnamvac.github.io/source/_includes/homeboxes.html",
-		"/Users/yen/dev/vietnamvac.github.io/source/_includes/navigation.html",
 		"/Users/yen/dev/vietnamvac.github.io/vietnamvac.sublime-project",
 		"/Users/yen/dev/vietnamvac.github.io/Rakefile",
 		"/Users/yen/.gitconfig",
@@ -63,7 +72,7 @@
 	],
 	"find":
 	{
-		"height": 22.0
+		"height": 26.0
 	},
 	"find_in_files":
 	{
@@ -101,11 +110,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 22.0
+		"height": 26.0
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 34.0
 	},
 	"layout":
 	{
@@ -138,7 +147,7 @@
 	"project": "vietnamvac.sublime-project",
 	"replace":
 	{
-		"height": 40.0
+		"height": 48.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -147,6 +156,58 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"evenbos",
+				"source/events/boston/index.markdown"
+			],
+			[
+				"nav",
+				"source/_includes/custom/navigation.html"
+			],
+			[
+				"homecon",
+				"source/_includes/custom/home-content.html"
+			],
+			[
+				"boston eventind",
+				"source/events/boston/index.markdown"
+			],
+			[
+				"bosindex",
+				"source/events/boston/index.markdown"
+			],
+			[
+				"vietnam2018",
+				"source/media/vietnam-2018/index.markdown"
+			],
+			[
+				"boston2016",
+				"source/media/boston-2016/index.markdown"
+			],
+			[
+				"event",
+				"source/events/boston/index.markdown"
+			],
+			[
+				"mgh",
+				"source/_posts/2016-11-22-mgh-newsletter-covers-the-2015-gala.markdown"
+			],
+			[
+				"mgh2018",
+				"source/_posts/2018-03-13-mgh-newsletter-feb-2018.markdown"
+			],
+			[
+				"2016gala",
+				"source/_posts/2016-11-22-mgh-newsletter-covers-the-2015-gala.markdown"
+			],
+			[
+				"2018newsle",
+				"source/_posts/2018-03-13-2018-newsletter.markdown"
+			],
+			[
+				"newsletter",
+				"source/_posts/2015-10-19-2015-newsletter.markdown"
+			],
 			[
 				"boston",
 				"source/events/boston/index.markdown"
@@ -162,10 +223,6 @@
 			[
 				"events",
 				"source/events/boston-gala-tickets.markdown"
-			],
-			[
-				"mgh",
-				"source/_posts/2016-11-22-mgh-newsletter-covers-the-2015-gala.markdown"
 			],
 			[
 				"2016",
