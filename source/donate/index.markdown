@@ -8,9 +8,9 @@ type: page
 published: true
 ---
 Donations are greatly appreciated. 100% of the proceeds will go towards treating children
-The Vietnam VAC is a 501\(c\)(3) organization, so your donation is completely tax deductible. Please view [the 501\(c\)(3) approval document](http://vietnamvac.isamonkey.org/documents/VietnamVAC-501c3-Approval.pdf) for our Tax ID.
+The Vietnam VAC is a 501\(c\)(3) organization, so your donation is completely tax deductible. Please contact us for our Tax ID.
 
-We accept donations in stocks, bonds and other assets.  Please contact Dr. Thuy Phung for more information at tphung@bcm.edu.
+We accept donations in stocks, bonds and other assets.  Please contact Dr. Thuy Phung for more information at tphung -at- bcm.edu.
 
 For secure online donations through PayPal, please click the link below:
 
