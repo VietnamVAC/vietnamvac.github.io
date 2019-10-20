@@ -40,6 +40,9 @@
 	},
 	"file_history":
 	[
+		"/Users/yen/dev/vietnamvac.github.io/source/_includes/homeboxes.html",
+		"/Users/yen/dev/vietnamvac.github.io/source/_includes/custom/header.html",
+		"/Users/yen/Downloads/GreenButton_Gas.xml",
 		"/Users/yen/dev/vietnamvac.github.io/source/events/boston/index.markdown",
 		"/Users/yen/dev/vietnamvac.github.io/source/_includes/custom/home-content.html",
 		"/Users/yen/dev/vietnamvac.github.io/source/_posts/2017-01-13-mgh-newsletter-covers-the-2016-gala.markdown",
@@ -60,7 +63,6 @@
 		"/Users/yen/dev/vietnamvac.github.io/source/events/boston-gala-tickets.markdown",
 		"/Users/yen/dev/vietnamvac.github.io/source/_posts/2017-09-29-mgh-newsletter-covers-the-2016-gala.markdown",
 		"/Users/yen/dev/vietnamvac.github.io/_config.yml",
-		"/Users/yen/dev/vietnamvac.github.io/source/_includes/homeboxes.html",
 		"/Users/yen/dev/vietnamvac.github.io/vietnamvac.sublime-project",
 		"/Users/yen/dev/vietnamvac.github.io/Rakefile",
 		"/Users/yen/.gitconfig",
@@ -114,7 +116,7 @@
 	},
 	"input":
 	{
-		"height": 34.0
+		"height": 38.0
 	},
 	"layout":
 	{
@@ -156,6 +158,50 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"home-content",
+				"source/_includes/custom/home-content.html"
+			],
+			[
+				"homebox",
+				"source/_includes/homeboxes.html"
+			],
+			[
+				"customnavig",
+				"source/_includes/custom/navigation.html"
+			],
+			[
+				"customheader",
+				"source/_includes/custom/header.html"
+			],
+			[
+				"che",
+				"source/_includes/custom/header.html"
+			],
+			[
+				"header",
+				"source/_includes/header.html"
+			],
+			[
+				"eventsine",
+				"source/events/boston/index.markdown"
+			],
+			[
+				"donate",
+				"source/donate/index.markdown"
+			],
+			[
+				"eventinde",
+				"source/events/boston/index.markdown"
+			],
+			[
+				"homecontent",
+				"source/_includes/custom/home-content.html"
+			],
+			[
+				"media",
+				"source/media/index.markdown"
+			],
 			[
 				"evenbos",
 				"source/events/boston/index.markdown"
@@ -235,10 +281,6 @@
 			[
 				"bostoninde",
 				"source/events/boston/index.markdown"
-			],
-			[
-				"home-content",
-				"source/_includes/custom/home-content.html"
 			],
 			[
 				"home",
