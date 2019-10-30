@@ -61,16 +61,16 @@ title: 2019 Boston Benefit Concert
               <label for="os2" class="control-label col-sm-4">Number of tickets</label>
               <div class="col-sm-8">
                 <select name="os0" class="form-control">
-                  <option value="1 Ticket">1 Ticket $125.00 USD</option>
-                  <option value="2 Tickets">2 Tickets $250.00 USD</option>
-                  <option value="3 Tickets">3 Tickets $375.00 USD</option>
-                  <option value="4 Tickets">4 Tickets $500.00 USD</option>
-                  <option value="5 Tickets">5 Tickets $625.00 USD</option>
-                  <option value="6 Tickets">6 Tickets $750.00 USD</option>
-                  <option value="7 Tickets">7 Tickets $875.00 USD</option>
-                  <option value="8 Tickets">8 Tickets $1,000.00 USD</option>
-                  <option value="9 Tickets">9 Tickets $1,125.00 USD</option>
-                  <option value="10 Tickets">10 Tickets $1,250.00 USD</option>
+                  <option value="1 Ticket">1 Ticket $150</option>
+                  <option value="2 Tickets">2 Tickets $300</option>
+                  <option value="3 Tickets">3 Tickets $450</option>
+                  <option value="4 Tickets">4 Tickets $600</option>
+                  <option value="5 Tickets">5 Tickets $750</option>
+                  <option value="6 Tickets">6 Tickets $900</option>
+                  <option value="7 Tickets">7 Tickets $1,050</option>
+                  <option value="8 Tickets">8 Tickets $1,200</option>
+                  <option value="9 Tickets">9 Tickets $1,350</option>
+                  <option value="10 Tickets">10 Tickets $1,500</option>
                 </select> 
               </div>
             </div>
