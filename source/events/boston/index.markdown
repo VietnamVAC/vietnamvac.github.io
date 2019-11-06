@@ -97,46 +97,40 @@ title: 2019 Boston Benefit Concert
       <h2>Music Program</h2>
 
       <ul class="leaders vv">
-        <li><span>Merce Dilette Amiche, from “I Vespri Siciliani”</span><span>Giuseppe Verdi</span>
-      </ul>
-
-      <ul class="leaders vv">
-        <li><span>Donde lieta ("La Boheme")</span><span>Giacomo Puccini</span>
+        <li><span>Two Songs, Opus 13</span><span>Clara Schumann</span></li>
+        <li><span>"Mi Chiamamo Mimi" from La Boheme</span><span>Giacomo Puccini</span></li>
         <li><span></span><span>Yelena Dudochkin, Soprano</span></li>
-       <li><span></span><span>Xuan He, Piano</span></li>
+        <li><span></span><span>Xuan He, Piano</span>
       </ul>
 
       <ul class="leaders vv">
-       <li><span>Night of Torch Festival</span><span>Junsheng Wu</span></li>
-       <li><span></span><span>Sharon Peng, Pipa</span></li>
+        <li><span>Salut d'Amour</span><span>Edward Elgar</span>
+        <li><span></span><span>Julie Scolnik, flute</span></li>
+       <li><span></span><span>Sophie Scolnik-Brower, piano</span></li>
       </ul>
 
       <ul class="leaders vv">
-       <li><span>Jacqueline's Tears</span><span>Jacques Offenbach</span></li>
-       <li><span></span><span>David Fisher, Cello</span></li>
-       <li><span></span><span>Mariko Yasuda, Piano</span></li>
+       <li><span>Trio, Op.17 (arr. for flute: Scolnik) I. Allegro moderato</span><span>Clara Schumann</span></li>
+       <li><span>Trio Op.1 No.1 (arr. for flute: Scolnik) Finale: Presto</span><span>Ludvig van Beethoven</span></li>
+       <li><span></span><span>Julie Scolnik, flute</span></li>
+       <li><span></span><span>David Fisher, cello</span></li>
+       <li><span></span><span>Sophie Scolnik-Brower, piano</span></li>
       </ul>
 
       <ul class="leaders vv">
-       <li><span>Sonata in G Minor, Opus 2, No 8</span><span>George Frideric Handel</span></li>
-       <li><span></span><span>David Fisher, Cello</span></li>
-       <li><span></span><span>Julie Reimann, Cello</span></li>
-       <li><span></span><span>Ellyses Kuan, Piano</span></li>
+       <li><span>Prelude and Fugue in G minor </span><span>Marcel Dupré</span></li>
+       <li><span></span><span>Xuan He, Organ</span></li>
       </ul>
 
       <ul class="leaders vv">
-       <li><span>Excerpts from Pictures at an Exhibition<br>(Arranged for cello and piano by Charles Schiff)<br>Promenade<br>Il Vecchio Castello (The Old Castle)<br>Tuileries<br>Bydlo<br>Promenade<br>Ballet of the Chicks in their Shells</span><span>Modeste Mussorgsky</span></li>
+       <li><span>Sonata in d minor (Allegro Moderato)</span><span>Mikhail Glinka (arr. for cello and piano by Dmitry & Oxana Yablonsky)</span></li>
+       <li><span></span><span>Duo Amie (Julie Reimann, Cello, Ellyses Kuan, Piano)</span></li>
       </ul>
 
-      <ul class="leaders vv">
-       <li><span>Gretchen at the Spinning Wheel</span><span>Franz Schubert</span></li>
-       <li><span></span><span>Julie Reimann, Cello</span></li>
-       <li><span></span><span>Ellyses Kuan, Piano</span></li>
-      </ul>
 
       <ul class="leaders vv">
-       <li><span>Erlkonig</span><span>Franz Schubert/Franz Liszt</span></li>
-       <li><span></span><span>Xuan He, Piano</span></li>
+       <li><span>Serenade Allegro - Scherzo - Rondo</span><span>Ernst von Dohnanyi</span></li>
+       <li><span></span><span>Ellypsis Chamber Players (Amanda Wang, violin, Jennifer Grucza, viola, Julie Reimann, cello)</span></li>
       </ul>
 
     </div>
