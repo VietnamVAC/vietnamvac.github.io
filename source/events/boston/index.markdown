@@ -97,8 +97,9 @@ title: 2019 Boston Benefit Concert
       <h2>Music Program</h2>
 
       <ul class="leaders vv">
-        <li><span>Two Songs, Opus 13</span><span>Clara Schumann</span></li>
-        <li><span>"Mi Chiamamo Mimi" from La Boheme</span><span>Giacomo Puccini</span></li>
+        <li><span>Die Stille Lotosblume, op. 13 no. 6</span><span>Clara Schumann</span></li>
+        <li><span>Mein Stern</span><span>Clara Schumann</span></li>
+        <li><span>E strano... sempre libera, from La Traviata</span><span>Giupseppe Verdi</span></li>
         <li><span></span><span>Yelena Dudochkin, Soprano</span></li>
         <li><span></span><span>Xuan He, Piano</span>
       </ul>
