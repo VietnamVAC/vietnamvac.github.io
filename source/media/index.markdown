@@ -7,7 +7,16 @@ status: publish
 type: page
 published: true
 ---
-
+<div class="row">
+  <div class="col-sm-12 col-md-12">
+    <div class="thumbnail">
+      <a href="/media/boston-2019">
+        <img src="http://vietnamvac.isamonkey.org/gallery/thumbs/thumb-boston-2019-800x250.jpg">
+        <div class="caption">Boston Gala 2019</div>
+      </a>
+    </div>
+  </div>
+</div>
 <div class="row">
   <div class="col-sm-12 col-md-12">
     <div class="thumbnail">
