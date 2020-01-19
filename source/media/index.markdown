@@ -10,27 +10,33 @@ published: true
 <div class="row">
   <div class="col-sm-12 col-md-12">
     <div class="thumbnail">
-      <a href="/media/boston-2019">
-        <img src="http://vietnamvac.isamonkey.org/gallery/thumbs/thumb-boston-2019-800x250.jpg">
-        <div class="caption">Boston Gala 2019</div>
-      </a>
-    </div>
-  </div>
-</div>
-<div class="row">
-  <div class="col-sm-12 col-md-12">
-    <div class="thumbnail">
       <iframe src="http://www.youtube.com/embed/wVkSYVGnVRU?modestbranding=1" allowfullscreen="true" height="400px" width="100%"></iframe>
       <div class="caption">VAC 2019</div>
     </div>
   </div>
 </div>
 <div class="row">
-  <div class="col-sm-12 col-md-12">
+  <div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <a href="/media/boston-2019">
+        <img src="http://vietnamvac.isamonkey.org/gallery/thumbs/thumb-boston-2019-242x200.jpg">
+        <div class="caption">Boston Gala 2019</div>
+      </a>
+    </div>
+  </div>
+  <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
       <a href="/media/vietnam-2019">
-        <img src="http://vietnamvac.isamonkey.org/gallery/thumbs/thumb-vietnam-2019-800x250.jpg">
+        <img src="http://vietnamvac.isamonkey.org/gallery/thumbs/thumb-vietnam-2019-242x200.jpg">
         <div class="caption">Vietnam 2019</div>
+      </a>
+    </div>
+  </div>
+  <div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <a href="/media/vietnam-2018">
+        <img src="http://vietnamvac.isamonkey.org/gallery/thumbs/thumb-vietnam-2018-242x200.jpg">
+        <div class="caption">Vietnam 2018</div>
       </a>
     </div>
   </div>
@@ -46,37 +52,33 @@ published: true
 <div class="row">
   <div class="col-sm-12 col-md-12">
     <div class="thumbnail">
-      <a href="/media/vietnam-2018">
-        <img src="http://vietnamvac.isamonkey.org/gallery/thumbs/thumb-vietnam-2018-800x250.jpg">
-        <div class="caption">Vietnam 2018</div>
-      </a>
-    </div>
-  </div>
-</div>
-<div class="row">
-  <div class="col-sm-12 col-md-12">
-    <div class="thumbnail">
-      <a href="/media/vietnam-2017">
-        <img src="http://vietnamvac.isamonkey.org/gallery/thumbs/thumb-vietnam-2017-800x250.jpg">
-        <div class="caption">Vietnam 2017</div>
-      </a>
-    </div>
-  </div>
-</div>
-<div class="row">
-  <div class="col-sm-12 col-md-12">
-    <div class="thumbnail">
       <iframe src="http://www.youtube.com/embed/jMv8HBjbl-8?modestbranding=1" allowfullscreen="true" height="400px" width="100%"></iframe>
       <div class="caption">VAC 2017</div>
     </div>
   </div>
 </div>
 <div class="row">
-  <div class="col-sm-12 col-md-12">
+  <div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <a href="/media/vietnam-2017">
+        <img src="http://vietnamvac.isamonkey.org/gallery/thumbs/thumb-vietnam-2017-242x200.jpg">
+        <div class="caption">Vietnam 2017</div>
+      </a>
+    </div>
+  </div>
+  <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
       <a href="/media/boston-2016">
-        <img src="http://vietnamvac.isamonkey.org/gallery/thumbs/thumb-boston-2016-800x250.jpg">
+        <img src="http://vietnamvac.isamonkey.org/gallery/thumbs/thumb-boston-2016-242x200.jpg">
         <div class="caption">Boston Gala 2016</div>
+      </a>
+    </div>
+  </div>
+  <div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <a href="/media/vietnam-2015">
+        <img src="http://vietnamvac.isamonkey.org/gallery/thumbs/thumb-vietnam-2015-242x200.jpg">
+        <div class="caption">Vietnam 2015</div>
       </a>
     </div>
   </div>
@@ -86,16 +88,6 @@ published: true
     <div class="thumbnail">
       <iframe src="http://www.youtube.com/embed/qwDcqnTcsqs?modestbranding=1" allowfullscreen="true" height="400px" width="100%"></iframe>
       <div class="caption">VAC 2016</div>
-    </div>
-  </div>
-</div>
-<div class="row">
-  <div class="col-sm-12 col-md-12">
-    <div class="thumbnail">
-      <a href="/media/vietnam-2015">
-        <img src="http://vietnamvac.isamonkey.org/gallery/thumbs/thumb-vietnam-2015-800x250.jpg">
-        <div class="caption">Vietnam 2015</div>
-      </a>
     </div>
   </div>
 </div>
