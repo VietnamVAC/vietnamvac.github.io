@@ -95,7 +95,7 @@ published: true
   <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
       <a href="/media/boston-2014">
-        <img src="http://vietnamvac.isamonkey.org/gallery/thumbs/thumb-boston-2014.png">
+        <img src="http://vietnamvac.isamonkey.org/gallery/thumbs/thumb-boston-2014.jpg">
         <div class="caption">Boston Gala 2014</div>
       </a>
     </div>
@@ -103,7 +103,7 @@ published: true
   <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
       <a href="/media/before-after-2014" target="_blank">
-        <img src="http://vietnamvac.isamonkey.org/gallery/thumbs/thumb-before-after-2014.png">
+        <img src="http://vietnamvac.isamonkey.org/gallery/thumbs/thumb-before-after-2014.jpg">
         <div class="caption">Before and After 2014</div>
       </a>
     </div>
@@ -111,7 +111,7 @@ published: true
   <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
       <a href="/media/vietnam-2014">
-        <img src="http://vietnamvac.isamonkey.org/gallery/thumbs/thumb-vietnam-2014.png">
+        <img src="http://vietnamvac.isamonkey.org/gallery/thumbs/thumb-vietnam-2014.jpg">
         <div class="caption">Vietnam 2014</div>
       </a>
     </div>
@@ -129,7 +129,7 @@ published: true
   <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
       <a href="/media/boston-2013">
-        <img src="http://vietnamvac.isamonkey.org/gallery/thumbs/thumb-boston-2013.png">
+        <img src="http://vietnamvac.isamonkey.org/gallery/thumbs/thumb-boston-2013.jpg">
         <div class="caption">Boston Gala 2013</div>
       </a>
     </div>
@@ -137,7 +137,7 @@ published: true
   <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
       <a href="/media/boston-2012">
-        <img src="http://vietnamvac.isamonkey.org/gallery/thumbs/thumb-boston-2012.png">
+        <img src="http://vietnamvac.isamonkey.org/gallery/thumbs/thumb-boston-2012.jpg">
         <div class="caption">Boston Gala 2012</div>
       </a>
     </div>
@@ -145,7 +145,7 @@ published: true
   <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
       <a href="/media/vietnam-2012">
-        <img src="http://vietnamvac.isamonkey.org/gallery/thumbs/thumb-vietnam-2012.png">
+        <img src="http://vietnamvac.isamonkey.org/gallery/thumbs/thumb-vietnam-2012.jpg">
         <div class="caption">Vietnam trip, March 2012</div>
       </a>
     </div>
@@ -155,7 +155,7 @@ published: true
   <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
       <a href="/media/boston-2011">
-        <img src="http://vietnamvac.isamonkey.org/gallery/thumbs/thumb-boston-2011.png">
+        <img src="http://vietnamvac.isamonkey.org/gallery/thumbs/thumb-boston-2011.jpg">
         <div class="caption">Boston Gala 2011</div>
       </a>
     </div>
@@ -163,7 +163,7 @@ published: true
   <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
       <a href="/media/houston-2011">
-        <img src="http://vietnamvac.isamonkey.org/gallery/thumbs/thumb-houston-2011.png">
+        <img src="http://vietnamvac.isamonkey.org/gallery/thumbs/thumb-houston-2011.jpg">
         <div class="caption">Houston Gala 2011</div>
       </a>
     </div>
@@ -171,7 +171,7 @@ published: true
   <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
       <a href="/media/boston-2010">
-        <img src="http://vietnamvac.isamonkey.org/gallery/thumbs/thumb-boston-2010.png">
+        <img src="http://vietnamvac.isamonkey.org/gallery/thumbs/thumb-boston-2010.jpg">
         <div class="caption">Boston Gala 2010</div>
       </a>
     </div>
@@ -181,7 +181,7 @@ published: true
   <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
       <a href="/media/vietnam-2009-2011">
-        <img src="http://vietnamvac.isamonkey.org/gallery/thumbs/thumb-vietnam-2009-2011.png">
+        <img src="http://vietnamvac.isamonkey.org/gallery/thumbs/thumb-vietnam-2009-2011.jpg">
         <div class="caption">Vietnam trips, 2009-2011</div>
       </a>
     </div>
@@ -189,7 +189,7 @@ published: true
   <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
       <a href="/media/doctors-at-work">
-        <img src="http://vietnamvac.isamonkey.org/gallery/thumbs/thumb-doctors.png">
+        <img src="http://vietnamvac.isamonkey.org/gallery/thumbs/thumb-doctors.jpg">
         <div class="caption">Our doctors and staff at work</div>
       </a>
     </div>
@@ -197,7 +197,7 @@ published: true
   <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
       <a href="/media/children-of-vac">
-        <img src="http://vietnamvac.isamonkey.org/gallery/thumbs/thumb-children-of-vac.png">
+        <img src="http://vietnamvac.isamonkey.org/gallery/thumbs/thumb-children-of-vac.jpg">
         <div class="caption">Children of the VAC</div>
       </a>
     </div>
